@@ -2,6 +2,22 @@
 
 A curated list of awesome websites and resources for stock market trading.
 
+
+- [Stock Research](#stock-research)
+- [Market Analysis](#market-analysis)
+- [Stock Screener](#stock-screener)
+- [Charting](#charting)
+- [News](#news)
+- [Portfolio Tracker](#portfolio-tracker)
+- [Strategy Backtesting](#strategy-backtesting)
+- [Stock Picks](#stock-picks)
+- [Stock Collections](#stock-collections)
+- [Stock APIs](#stock-apis)
+- [Knowledge](#knowledge)
+- [Most Important Stock Exchanges](#most-important-stock-exchanges)
+
+----
+
 ### Stock Research
 
 - [Alpha Spread](https://alphaspread.com) - Provides data and tools for quantitative research and stock valuation.
