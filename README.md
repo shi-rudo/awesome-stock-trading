@@ -1,9 +1,6 @@
-# Awesome Stock Trading
+# Awesome Stock Trading [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome websites and resources for stock market trading.
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 
 ### Stock Research
 
