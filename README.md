@@ -2,7 +2,6 @@
 
 A curated list of awesome websites and resources for stock market trading.
 
-
 - [Stock Research](#stock-research)
 - [Market Analysis](#market-analysis)
 - [Stock Screener](#stock-screener)
@@ -95,6 +94,7 @@ A curated list of awesome websites and resources for stock market trading.
 
 ### Knowledge
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
+- [StockScreening101](https://www.stockscreening101.com) - StockScreening101 is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
 - [Wallstreetmojo](https://www.wallstreetmojo.com) - Learn Investment Banking, Finance Modeling and Excel with more than 4800+ Articles, Self Study Guides, Resources and courses.
 
 ### Most Important Stock Exchanges
