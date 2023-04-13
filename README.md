@@ -42,7 +42,7 @@ A curated list of awesome websites and resources for stock market trading.
 
 ### Stock Screener
 - [Cnbc Stock Screener](https://www.cnbc.com/stock-screener/) - Stock screener for US stock market.
-- [Finviz](https://finviz.com) - Stock screener for US stock market with financial visualizations.
+- [Finviz](https://finviz.com) - Free stock screener with financial visualizations.
 - [Market Beat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Simply Wall St Stock Screener](https://simplywall.st/screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Tip Ranks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
