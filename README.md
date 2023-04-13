@@ -41,9 +41,10 @@ A curated list of awesome websites and resources for stock market trading.
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed) - provides a market sentiment indicator for investors. It analyzes seven different indicators, including market volatility, investor sentiment, and safe-haven demand, to generate a score ranging from 0-100 that reflects whether the market is in a state of fear or greed.
 
 ### Stock Screener
+- [Cnbc Stock Screener](https://www.cnbc.com/stock-screener/) - Stock screener for US stock market.
 - [Finviz](https://finviz.com) - Stock screener for US stock market with financial visualizations.
-- [Simply Wall St Stock Screener](https://simplywall.st/screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Market Beat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
+- [Simply Wall St Stock Screener](https://simplywall.st/screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Tip Ranks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Trading Terminal Scanner](https://scanner.tradingterminal.com) - US market stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Wallmine Free Stock Screener](https://wallmine.com/screener) - Free stock screener that allows filtering stocks by market cap, sector, industry, and more.
