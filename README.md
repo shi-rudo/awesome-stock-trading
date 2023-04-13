@@ -90,6 +90,7 @@ A curated list of awesome websites and resources for stock market trading.
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [Morningstar](https://developer.morningstar.com) - Provides Morningstar’s data, research, and reports.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets
 - [Polygon](https://polygon.io/) - Polygon offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 
