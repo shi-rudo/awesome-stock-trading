@@ -37,9 +37,9 @@ A curated list of awesome websites and resources for stock market trading.
 
 ### Market Analysis
 - [Companies Market Cap](https://www.companiesmarketcap.com) - Provides a list of companies and their market capitalizations, allowing users to easily track the valuations of various publicly traded companies. It also includes useful data such as industry classifications and stock exchange listings.
+- [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed) - provides a market sentiment indicator for investors. It analyzes seven different indicators, including market volatility, investor sentiment, and safe-haven demand, to generate a score ranging from 0-100 that reflects whether the market is in a state of fear or greed.
 - [Trading Terminal](https://www.tradingterminal.com) - Overview of the most important metrics for the US Market.
 - [Tradytics](https://tradytics.com) - AI predictions, intraday market price action, biggest movers, sectors performance, and more.
-- [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed) - provides a market sentiment indicator for investors. It analyzes seven different indicators, including market volatility, investor sentiment, and safe-haven demand, to generate a score ranging from 0-100 that reflects whether the market is in a state of fear or greed.
 
 ### Stock Screener
 - [Cnbc Stock Screener](https://www.cnbc.com/stock-screener/) - Stock screener for US stock market.
