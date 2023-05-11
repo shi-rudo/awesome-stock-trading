@@ -80,6 +80,7 @@ A curated list of awesome websites and resources for stock market trading.
 - [Alpha Picks](https://seekingalpha.com/alpha-picks/) - Alpha Picks gives you two top stock picks each month, sifted from Seeking Alpha’s analysis of thousands of stocks.
 - [Benzinga Pro](https://pro.benzinga.com) - Benzinga offers daily trade picks from professional day traders with on-demand support, as well as exclusive market-moving stories.
 - [Best Stocks to Buy Now](https://www.investopedia.com/best-stocks-to-buy-now/) - Investopedia's list of the best stocks to buy now.
+- [EarningsBeats](https://www.earningsbeats.com) - EarningsBeats.com provides a research and educational platform for investors. Services are designed to help their members beat the S&P 500.
 - [Investing Groups by Seeking Alpha](https://seekingalpha.com/groups) - Investing groups on Seeking Alpha that provide stock picks, analysis, and market insights.
 - [The Motley Fool Stock Advisor](https://www.fool.com/services/) - Stock Advisor is a premium service that provides stock picks, analysis, and market insights.
 
