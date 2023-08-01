@@ -1,5 +1,7 @@
 # Awesome Stock Trading [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Curated List of Awesome Stock Trading Tools](./src/assets/img/awesome-stock-trading-list-banner.png)
+
 A curated list of awesome websites and resources for stock market trading.
 
 - [Stock Research](#stock-research)
