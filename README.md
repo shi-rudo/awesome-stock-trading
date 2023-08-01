@@ -23,6 +23,7 @@ A curated list of awesome websites and resources for stock market trading.
 - [Barchart](https://www.barchart.com) - Offers market data, analysis, and tools for commodity, stock, and forex traders.
 - [Capitol Trade](https://www.capitoltrades.com) - Keeping Tabs on Politicians' Trades (US only).
 - [Chartmill](https://chartmill.com) - ChartMill is a stock screening and analysis platform.
+- [Danelfin](https://danelfin.com) - Provides AI-Powered Stock Research & Picking Tools.
 - [Finbox](https://finbox.io/) - Offers tools for financial analysis, valuation, and screening of stocks.
 - [Market Beat](https://www.marketbeat.com) - Provides stock research, ratings, and news for individual investors.
 - [Market Screener](https://www.marketscreener.com) - Offers stock market quotes, news, analysis, and screening tools.
