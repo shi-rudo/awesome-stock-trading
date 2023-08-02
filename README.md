@@ -108,8 +108,8 @@ The curated list of resources for research and learning about stock trading and 
 ## Books
 
 #### Value Investing and Fundamental Analysis
-- [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016.
-- [Common Stocks and Uncommon Profits and Other Writings](https://www.goodreads.com/book/show/106835.Common_Stocks_and_Uncommon_Profits_and_Other_Writings) - Philip A. Fisher, 1957.
+- [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016. Berkshire Hathaway Letters to Shareholders is a book that compiles the full unedited versions of each of Warren Buffett’s letters to shareholders between 1965 and 2014. The book offers insight into Buffett’s investment philosophy, business strategy, and personal values.
+- [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957. Common Stocks and Uncommon Profits and Other Writings is a book by Philip A. Fisher, a legendary investor and the founder of Fisher & Company. The book reveals Fisher’s 15-point framework for identifying profitable stocks, as well as his insights on market psychology, diversification, and long-term investing.
 - [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth Klarman, 1991.
 - [Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/27238590-security-analysis-for-investment-and-corporate-finance) - Aswath Damodaran, 1994.
 - [Security Analysis](https://en.wikipedia.org/wiki/Security_Analysis_(book)) - Benjamin Graham, 1934.
