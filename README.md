@@ -177,6 +177,9 @@ The Complete TurtleTrader is a book by Michael Covel that tells the true story o
 - [The Craft of Investing](https://www.goodreads.com/book/show/128947547-the-craft-of-investing-by-john-train) - John Train, 1994 </br>
 The Craft of Investing is a book by John Train, an investment wizard who has decades of experience in stock market investing and investment counseling. In the book, Train outlines his key strategies and principles that have brought him success, addressing everything from the psychology of the market to practical portfolio management tips. The book covers topics such as growth investing, value investing, emerging markets, market timing, mutual funds, and alternatives.
 
+- [The Little Book of Trading](https://www.goodreads.com/book/show/16235023-the-little-book-of-trading) - Michael W. Covel, 2011 </br>
+  Michael W. Covel's book offers insights into the rules and philosophies used by successful traders to beat the market, regardless of the financial climate. Savvy traders know how to make money in both good and bad times, leveraging their understanding of the market's fluctuations. Drawing from the author's own trading experience and wisdom shared by legendary traders, the book provides sound and practical advice in a straightforward and easy-to-understand manner¹. It equips readers with valuable knowledge to navigate the markets effectively, whether they are beginners or experienced traders.
+
 - [The Little Book that Still Beats the Market](https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market) - Joel Greenblatt, 2007 </br>
 The Little Book That Still Beats the Market is a book by Joel Greenblatt, published in 2007. In the book, Greenblatt explains how investors can outperform the popular market averages by simply and systematically applying a formula that seeks out good businesses when they are available at bargain prices. The book is kept simple and is aimed at beginners. 
 
@@ -187,13 +190,23 @@ The New Market Wizards is a book by Jack D. Schwager that features interviews wi
 Think & Trade Like a Champion is a book by Mark Minervini that reveals the secrets, rules, and blunt truths of a stock market trader. In the book, Mark shows readers step-by-step how to use his time-tested principles to dramatically improve their performance and develop the confidence needed to achieve superior performance. Mark reveals his personal trading rules and the secret techniques that made him one of America's most successful stock traders.
 
 #### Trend Following
-- [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks) - Matthew R. Kratter, 2015.
-- [Stocks on the Move](https://www.goodreads.com/book/show/25819574-stocks-on-the-move) - Andreas Clenow, 2015.
-- [The Little Book of Trading](https://www.goodreads.com/book/show/16235023-the-little-book-of-trading) - Michael W. Covel, 2011.
-- [Trading the Trends](https://www.goodreads.com/book/show/20428445-trading-the-trends) - L. A. Little, 2011.
-- [Trend Following](https://www.goodreads.com/book/show/34855405-trend-following) - Michael W. Covel, 2004.
-- [Trend Qualification and Trading](https://www.goodreads.com/book/show/18969247-trend-qualification-and-trading) - L. A. Little, 2011.
-- [Trend Trading Set-Ups](https://www.goodreads.com/book/show/19569996-trend-trading-set-ups) - L. A. Little, 2012.
+- [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks) - Matthew R. Kratter, 2015 </br>
+  This beginner-friendly book introduces a trading strategy by Matthew R. Kratter. It is designed to equip readers with the knowledge and skills to make profitable trades with momentum stocks, making it an excellent starting point for newcomers to trading. Within the book, Kratter thoroughly explains how to identify stocks on the verge of significant upward movement, the optimal moments to buy and sell these stocks, effective methods for screening and selecting the best trade candidates, and insider tricks commonly employed by experienced traders. Whether you're new to trading or seeking to enhance your stock trading proficiency, this book promises to offer valuable insights and techniques to support your trading journey.
+
+- [Stocks on the Move](https://www.goodreads.com/book/show/25819574-stocks-on-the-move) - Andreas Clenow, 2015 </br>
+Andreas F. Clenow, a hedge fund manager, authored a book that sheds light on the secrets of successful investing. In this book, Clenow delves into why most mutual funds consistently underperform and reveals how anyone can outperform them. He emphasizes the power of momentum investing as one of the few consistent methods to beat the markets, providing readers with a unique backstage pass to understand how established hedge funds achieve their impressive results. The book presents a rational approach to long-term market investing, addressing the challenges of stock markets and offering practical solutions to tackle them
+
+- [Trading the Trends](https://www.goodreads.com/book/show/20428445-trading-the-trends) - L. A. Little, 2011 </br>
+Fred McAllen's book offers a comprehensive guide to making profit in the stock market through technical analysis and charting techniques. The book covers various aspects, including identifying trends, using technical indicators, and managing risk, making it suitable for both beginners and experienced traders. The content is written in an easy-to-understand style, providing readers with valuable insights into understanding and profiting from the stock market.
+
+- [Trend Following](https://www.goodreads.com/book/show/34855405-trend-following) - Michael W. Covel, 2004 </br>
+  Michael W. Covel's book delves into the world of trend following, providing insights on how to make a profit in various market conditions, be it bullish, bearish, or during unpredictable black swan events. In this timely reboot of his bestselling classic, Covel thoroughly examines the risks, benefits, people, and systems involved in trend following strategy. Readers will gain valuable knowledge from traders who have achieved great success by following trends, learning from their triumphs and pitfalls.
+
+- [Trend Qualification and Trading](https://www.goodreads.com/book/show/18969247-trend-qualification-and-trading) - L. A. Little, 2011 </br>
+L.A. Little's book offers valuable insights into identifying and qualifying trends in the stock market, leading to improved trading outcomes. Through a proven technical approach, the book explains how to gauge the likelihood of trend continuation and its potential for better trading results. Readers will gain understanding on timing entries, taking profits, and effectively exiting trades based on these trends¹. Additionally, Little introduces his proprietary concept, The Trading Cube, which visually integrates time and trend analysis for a given trading instrument, enhancing traders' decision-making process.
+
+- [Trend Trading Set-Ups](https://www.goodreads.com/book/show/19569996-trend-trading-set-ups) - L. A. Little, 2012 </br>
+L.A. Little's book offers a comprehensive step-by-step process for profiting from neoclassical qualified trend trading¹. Building on the neoclassical concept introduced in Trend Qualification and Trading, the book presents traders and investors with a robust methodology to uncover the most promising trade set-ups and achieve precise timing for trade entries like never before¹. In "Trend Trading Set-Ups," Little reveals the data supporting qualified trends and introduces a novel concept incorporating time to calculate trend failure probability rates¹. This book is an invaluable resource for traders seeking to enhance their trend trading strategies and maximize their profit potential in the financial markets.
 
 #### Price Action Trading
 - [Integrated Pitchfork Analysis: Basic to Intermediate Level](https://www.goodreads.com/book/show/9733016-integrated-pitchfork-analysis) - Mircea Dologa, 2009.
