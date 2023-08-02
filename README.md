@@ -209,11 +209,10 @@ L.A. Little's book offers valuable insights into identifying and qualifying tren
 L.A. Little's book offers a comprehensive step-by-step process for profiting from neoclassical qualified trend trading¹. Building on the neoclassical concept introduced in Trend Qualification and Trading, the book presents traders and investors with a robust methodology to uncover the most promising trade set-ups and achieve precise timing for trade entries like never before¹. In "Trend Trading Set-Ups," Little reveals the data supporting qualified trends and introduces a novel concept incorporating time to calculate trend failure probability rates¹. This book is an invaluable resource for traders seeking to enhance their trend trading strategies and maximize their profit potential in the financial markets.
 
 #### Price Action Trading
-- [Integrated Pitchfork Analysis: Basic to Intermediate Level](https://www.goodreads.com/book/show/9733016-integrated-pitchfork-analysis) - Mircea Dologa, 2009.
 - [Price Action Breakdown](https://www.goodreads.com/book/show/29460388-price-action-breakdown) - Laurentiu Damir, 2016.
 - [Price Action Trading Secrets](https://www.goodreads.com/book/show/55854507-price-action-trading-secrets) - Rayner Teo, 2020.
 - [Pring on Price Patterns](https://www.goodreads.com/book/show/19138622-pring-on-price-patterns) - Martin J. Pring, 2009.
-- [Stock Trading & Investing Using Volume Price Analysis](https://www.goodreads.com/book/show/25744381-stock-trading-investing-using-volume-price-analysis) - Anna Coulling, 2015.
+- [Stock Trading & Investing Using Volume Price Analysis](https://www.goodreads.com/book/show/38296614-stock-trading-investing-using-volume-price-analysis) - Anna Coulling, 2015.
 - [Trading Price Action Trends](https://www.goodreads.com/book/show/19169498-trading-price-action-trends) - Al Brooks, 2011.
 
 #### Behavioral Finance and Psychological Aspect of Investing
