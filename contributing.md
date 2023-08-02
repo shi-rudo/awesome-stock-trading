@@ -10,7 +10,7 @@ Before contributing, please ensure you follow these guidelines:
 
 1. **Scope:** We welcome contributions that directly relate to stock trading. This includes resources for news, analysis, trading platforms, educational materials, books, blogs, podcasts, and more.
 
-2. **Quality:** All resources should be of high quality and respected within the community. Please ensure that your contributions are trusted and reliable sources of information.
+2. **Quality:** All resources should be of high quality and respected within the community. Please ensure that your contributions are trusted and reliable sources of information. We strive to maintain a high standard for our resources. We expect the resources contributed to be renowned, profound, and relevant. Only resources that have established a notable reputation for quality and accuracy in the field are accepted. Very young works, or those without a significant community peer review, are not accepted. This is to ensure that the information we curate and distribute is accurate, reliable, and of the highest quality.
 
 3. **No promotion:** This list should not be used for promotion. Please only contribute resources that you believe are genuinely beneficial to the community.
 
