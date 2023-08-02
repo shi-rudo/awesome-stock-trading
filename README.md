@@ -108,7 +108,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Books
 
 #### Value Investing and Fundamental Analysis
-- [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/129878.Berkshire_Hathaway_Letters_to_Shareholders) - Warren Buffett, 2016.
+- [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016.
 - [Common Stocks and Uncommon Profits and Other Writings](https://www.goodreads.com/book/show/106835.Common_Stocks_and_Uncommon_Profits_and_Other_Writings) - Philip A. Fisher, 1957.
 - [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth Klarman, 1991.
 - [Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/27238590-security-analysis-for-investment-and-corporate-finance) - Aswath Damodaran, 1994.
