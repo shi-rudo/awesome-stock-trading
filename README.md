@@ -146,9 +146,14 @@ The book outlines the business and investment principles of value investing prac
 The book explores the fundamental techniques of value investing. It book has received positive reviews from the world's largest community of readers, with many praising its in-depth analysis of the value investing approach.
 
 #### Quantitative Investing and Portfolio Management
-- [Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994.
-- [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection) - Harry M. Markowitz, 1968.
-- [Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management) - Ludwig B. Chincarini, Daehwan Kim, 2006.
+- [Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
+Active Portfolio Management is a book that provides a quantitative approach to producing returns and controlling risk. The book details how to apply economics, econometrics, and operations research to solving practical investment problems, and uncovering profit opportunities. It outlines an active management framework that begins with a benchmark portfolio, then defines exceptional returns as they relate to that benchmark.
+
+- [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection) - Harry M. Markowitz, 1968 </br>
+This book uses modern methods of analysis and computation to help investors find the best combinations of securities to meet their needs. It is written primarily for readers without a strong mathematical background, but also includes mathematical explanations of the subject in the appendices.
+
+- [Quantitative Equity Portfolio Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management) - Ludwig B. Chincarini, Daehwan Kim, 2006 </br>
+Quantitative Equity Portfolio Management is a comprehensive guide to constructing and managing a high-yield quantitative equity portfolio. The book begins with the basic principles of quantitative active management and outlines how to build an equity portfolio using those concepts¹. Financial experts Ludwig Chincarini and Daehwan Kim provide clear explanations of topics ranging from basic models, factors and factor choice, and stock screening and ranking, to fundamental factor models, economic factor models, and forecasting factor premiums and exposures.
 
 #### General Stock Trading
 - [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, 1992.
