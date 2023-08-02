@@ -112,7 +112,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016 </br> 
 The book compiles the full unedited versions of each of Warren Buffett's letters to shareholders between 1965 and 2014. The book offers insight into Buffett's investment philosophy, business strategy, and personal values.
 
-- [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957</br> 
+- [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957 </br> 
 Philip A. Fisher, a legendary investor and the founder of Fisher & Company, authored a significant book. This book presents Fisher's 15-point framework for identifying profitable stocks and offers valuable insights into market psychology, diversification, and the benefits of long-term investing. Throughout the book, Fisher emphasizes the importance of thorough research and understanding of a company before making investment decisions.
 
 - [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/21841022-damodaran-on-valuation) - Aswath Damodaran, 1994 </br> 
@@ -130,19 +130,19 @@ Written by Mohnish Pabrai, the book provides a potent and all-encompassing value
 - [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor) - Benjamin Graham, 1949 </br>
 The Intelligent Investor is a book by Benjamin Graham that teaches investors how to invest intelligently. The book focuses on investment principles and investors' attitudes, rather than the technique of analyzing securities. Graham's method advises investors to concentrate on the real-life performance of their companies and the dividends they receive, rather than paying attention to the changing sentiments of the market.
 
-- [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne, 2006. </br> 
+- [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne, 2006 </br> 
 Brown teaches the fundamental lessons of value investing philosophy. The book describes the theory of value investing, which involves investing in undervalued companies and holding them for a long time, even if they are not popular or trendy. The author offers guidance on how to use basic information such as P/E ratios and points the way to free online stock-screening services, while making no big promises about market success.
 
-- [The Most Important Thing](https://www.goodreads.com/book/show/41211699-the-most-important-thing) - Howard Marks, 2011. </br> 
+- [The Most Important Thing](https://www.goodreads.com/book/show/41211699-the-most-important-thing) - Howard Marks, 2011 </br> 
 In this book, Howard Marks skillfully condenses the investment insights from his renowned client memos into one comprehensive text, making his philosophy accessible to a broader audience. Alongside his wisdom, the book includes valuable commentary, insights, and counterpoints from four distinguished investors and investment educators. These experts shed light on crucial concepts for successful investing, such as 'second-level thinking', understanding the price/value relationship, adopting patient opportunism, and practicing defensive investing.
 
-- [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari, 2011. </br> 
+- [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari, 2011 </br> 
 Covering many aspects of equity investment, the content draws from Mr. Maheshwari's journey as an investor and follows a loosely chronological order, starting from the 1990s. It concludes with dos and don'ts, along with his thoughts on leverage and a checklist for beginners.
 
-- [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way) - Robert G. Hagstrom, 2007. </br>
+- [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way) - Robert G. Hagstrom, 2007 </br>
 The book outlines the business and investment principles of value investing practiced by American businessman and investor Warren Buffett. The book presents an in-depth examination of Warren Buffett's strategies, and the 'how and why' behind his selection of each of the major securities that have contributed to his remarkable record of success.
 
-- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004. </br> 
+- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004 </br> 
 The book explores the fundamental techniques of value investing. It book has received positive reviews from the world's largest community of readers, with many praising its in-depth analysis of the value investing approach.
 
 #### Quantitative Investing and Portfolio Management
@@ -153,19 +153,38 @@ Active Portfolio Management is a book that provides a quantitative approach to p
 This book uses modern methods of analysis and computation to help investors find the best combinations of securities to meet their needs. It is written primarily for readers without a strong mathematical background, but also includes mathematical explanations of the subject in the appendices.
 
 - [Quantitative Equity Portfolio Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management) - Ludwig B. Chincarini, Daehwan Kim, 2006 </br>
-  This comprehensive guide delves into the construction and management of a high-yield quantitative equity portfolio. It starts by introducing the fundamental principles of quantitative active management and illustrates how to build such a portfolio based on these concepts¹. Authored by financial experts Ludwig Chincarini and Daehwan Kim, the book provides lucid explanations covering a wide range of topics, including basic models, factors and factor selection, stock screening and ranking, as well as more advanced subjects like fundamental factor models, economic factor models, and forecasting factor premiums and exposures.
+This comprehensive guide delves into the construction and management of a high-yield quantitative equity portfolio. It starts by introducing the fundamental principles of quantitative active management and illustrates how to build such a portfolio based on these concepts. Authored by financial experts Ludwig Chincarini and Daehwan Kim, the book provides lucid explanations covering a wide range of topics, including basic models, factors and factor selection, stock screening and ranking, as well as more advanced subjects like fundamental factor models, economic factor models, and forecasting factor premiums and exposures.
 
 #### General Stock Trading
-- [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, 1992.
-- [Charlie Munger: The Complete Investor](https://www.goodreads.com/book/show/25695577-charlie-munger) - Tren Griffin, 2015.
-- [Market Wizards: Interviews with Top Traders](https://www.goodreads.com/book/show/966769.Market_Wizards) - Jack D. Schwager, 1989.
-- [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market](https://www.goodreads.com/book/show/1067.One_Up_On_Wall_Street) - Peter Lynch, 1989.
-- [Stocks for the Long Run](https://www.goodreads.com/book/show/142138.Stocks_for_the_Long_Run) - Jeremy Siegel, 1994.
-- [The Complete Turtle Trader](https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader?from_search=true&from_srp=true&qid=GnvRaEzSIM&rank=1) - Michael W. Covel, 2007.
-- [The Craft of Investing](https://www.goodreads.com/book/show/683748.The_Craft_of_Investing) - John Train, 1994.
-- [The Little Book that Beats the Market](https://www.goodreads.com/book/show/300680.The_Little_Book_That_Beats_the_Market) - Joel Greenblatt, 1999.
-- [The New Market Wizards](https://www.goodreads.com/book/show/27224350-new-market-wizards) - Jack D. Schwager, 1992.
-- [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion?from_search=true&from_srp=true&qid=1jo2tuT0xp&rank=2) - Mark Minervini, 2017.
+- [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, 1992 </br>
+Beating the Street is a book by Peter Lynch, who managed Fidelity Investment's remarkable successful Magellan Fund from 1977 to 1990. In the book, Lynch provides investors with insight into his investment methodologies and tactics. He begins with a tale about a group of 7th graders who make mock investments as part of their class. The children are instructed to invest in companies they own and to research their choices to explain to their classmates why they made them. The 7th graders do extremely well, beating the S & P 500 index significantly. Their story demonstrates that even a child can invest successfully if they choose companies they are familiar with and do their research. Knowing one's investments is the main theme of the book.
+
+- [Charlie Munger: The Complete Investor](https://www.goodreads.com/book/show/34889127-charlie-munger) - Tren Griffin, 2015 </br>
+In 'Charlie Munger: The Complete Investor', Tren Griffin delves into the investment philosophy and mental models of Charlie Munger, the vice-chairman of Berkshire Hathaway and long-time business partner of Warren Buffett. Condensing insights from interviews, speeches, writings, and shareholder letters, the book presents the core steps of Munger's investing strategy, accompanied by commentary from fund managers, value investors, and business-case historians. By exploring Munger's approach, the book provides valuable insights into the mindset, personal skills, and traits that contribute to the success of a value investor.
+
+- [Market Wizards: Interviews with Top Traders](https://www.goodreads.com/book/show/966769.Market_Wizards) - Jack D. Schwager, 1989 </br>
+Market Wizards is a book by Jack D. Schwager that features interviews with top traders. The book is considered a classic in the field of finance and is a must-read for traders, professional financiers, and anyone interested in gaining insight into how the world of finance really works. Through interviews with superstar money-makers such as Bruce Kovner, Richard Dennis, Paul Tudor Jones, Michel Steinhardt, Ed Seykota, Marty Schwartz, Tom Baldwin, and more, Schwager sets out to answer the question of what separates the world's top traders from the vast majority of unsuccessful investors.
+
+- [One Up On Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street) - Peter Lynch, 1989 </br>
+One Up On Wall Street is a book by Peter Lynch, who managed Fidelity Investment's incredibly successful Magellan Fund from 1977 to 1990. In the book, Lynch provides investors with insight into his investment methodologies and tactics1. He explains how anyone can pick good, well-performing stocks without having much knowledge in the field, by following a few key practices.
+
+- [Stocks for the Long Run](https://www.goodreads.com/book/show/965633.Stocks_for_the_Long_Run_) - Jeremy Siegel, 1994 </br>
+Stocks for the Long Run is a book on investing by Jeremy Siegel. Its first edition was released in 1994 and its fifth edition was released on 2014. According to Pablo Galarza of Money, "His 1994 book Stocks for the Long Run sealed the conventional wisdom that most of us should be in the stock market". The book delves into the subject of investing and the implications that come with picking securities, whether they're stocks, bonds, or commodities, having in mind the generally higher returns of stocks over the years and how to build a balanced portfolio that can face times of crisis.
+
+- [The Complete Turtle Trader](https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader) - Michael W. Covel, 2007 </br>
+The Complete TurtleTrader is a book by Michael Covel that tells the true story of Wall Street legend Richard Dennis, his disciples, the Turtles, and the trading techniques that made them millionaires. Richard Dennis made a fortune on Wall Street by investing according to a few simple rules. Convinced that great trading was a skill that could be taught to anyone, he made a bet with his partner and ran a classified ad in the Wall Street Journal looking for novices to train. His recruits, later known as the Turtles, had anything but traditional Wall Street backgrounds; they included a professional blackjack player, a pianist, and a fantasy game designer. For two weeks, Dennis taught them his investment rules and philosophy, and set them loose to start trading, each with a million dollars of his money. By the time the experiment ended, Dennis had made a hundred million dollars from his Turtles and created one killer Wall Street legend.
+
+- [The Craft of Investing](https://www.goodreads.com/book/show/128947547-the-craft-of-investing-by-john-train) - John Train, 1994 </br>
+The Craft of Investing is a book by John Train, an investment wizard who has decades of experience in stock market investing and investment counseling. In the book, Train outlines his key strategies and principles that have brought him success, addressing everything from the psychology of the market to practical portfolio management tips. The book covers topics such as growth investing, value investing, emerging markets, market timing, mutual funds, and alternatives.
+
+- [The Little Book that Still Beats the Market](https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market) - Joel Greenblatt, 2007 </br>
+The Little Book That Still Beats the Market is a book by Joel Greenblatt, published in 2007. In the book, Greenblatt explains how investors can outperform the popular market averages by simply and systematically applying a formula that seeks out good businesses when they are available at bargain prices. The book is kept simple and is aimed at beginners. 
+
+- [The New Market Wizards](https://www.goodreads.com/book/show/27224350-new-market-wizards) - Jack D. Schwager, 1992 </br>
+The New Market Wizards is a book by Jack D. Schwager that features interviews with successful traders. In the book, Schwager asks questions that readers with an interest or involvement in the financial markets would love to pose to the financial superstars, encouraging these financial wizards to share their insights. The book is entertaining, informative, and invaluable, and is destined to become another Schwager classic.
+
+- [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion) - Mark Minervini, 2017 </br>
+Think & Trade Like a Champion is a book by Mark Minervini that reveals the secrets, rules, and blunt truths of a stock market trader. In the book, Mark shows readers step-by-step how to use his time-tested principles to dramatically improve their performance and develop the confidence needed to achieve superior performance. Mark reveals his personal trading rules and the secret techniques that made him one of America's most successful stock traders.
 
 #### Trend Following
 - [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks) - Matthew R. Kratter, 2015.
