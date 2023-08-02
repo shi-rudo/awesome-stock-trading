@@ -2,10 +2,10 @@
 
 ![Curated List of Awesome Stock Trading Resources](./src/assets/img/awesome-stock-trading-list-banner.png)
 
-The curated list of resources for research and learning about stock trading and investing. It contains links to various resources and tools that can help anyone who wants to start or improve their stock trading skills. The project is open-source and welcomes contributions from anyone who wants to add or update the resources. The project aims to be a comprehensive and useful guide for anyone interested in stock trading.
+The curated list of resources for research and learning about stock trading and investing. It contains links to various resources and tools that can help anyone who wants to start or improve their stock trading skills. The project is open-source and welcomes [contributions](contributing.md) from anyone who wants to add or update the resources. The project aims to be a comprehensive and useful list for anyone interested in stock trading.
 
 ## Contents
-
+a
 - [Stock Research](#stock-research)
 - [Market Analysis](#market-analysis)
 - [Stock Screener](#stock-screener)
