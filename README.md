@@ -109,7 +109,6 @@ A curated list of awesome websites and resources for stock market trading.
 ### Books
 
 ##### Value Investing and Fundamental Analysis
-
 - [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/129878.Berkshire_Hathaway_Letters_to_Shareholders), Warren Buffett, 2016.
 - [Common Stocks and Uncommon Profits and Other Writings](https://www.goodreads.com/book/show/106835.Common_Stocks_and_Uncommon_Profits_and_Other_Writings), Philip A. Fisher, 1957.
 - [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety), Seth Klarman, 1991.
@@ -124,35 +123,45 @@ A curated list of awesome websites and resources for stock market trading.
 - [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing), Bruce C. N. Greenwald, 2004.
 
 ##### Quantitative Investing and Portfolio Management
-
 - [Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management), Richard C. Grinold, Ronald Kahn, 1994.
 - [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection), Harry M. Markowitz, 1968.
 - [Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management), Ludwig B. Chincarini, Daehwan Kim, 2006.
 
 ##### General Stock Trading
-
 - [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street), Peter Lynch, 1992.
 - [Charlie Munger: The Complete Investor](https://www.goodreads.com/book/show/25695577-charlie-munger), Tren Griffin, 2015.
-- [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks), Matthew R. Kratter, 2015.
 - [Market Wizards: Interviews with Top Traders](https://www.goodreads.com/book/show/966769.Market_Wizards), Jack D. Schwager, 1989.
 - [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market](https://www.goodreads.com/book/show/1067.One_Up_On_Wall_Street), Peter Lynch, 1989.
-- [Stock Trading & Investing Using Volume Price Analysis](https://www.goodreads.com/book/show/25744381-stock-trading-investing-using-volume-price-analysis?from_search=true&from_srp=true&qid=1jo2tuT0xp&rank=1), Anna Coulling, 2015.
 - [Stocks for the Long Run](https://www.goodreads.com/book/show/142138.Stocks_for_the_Long_Run), Jeremy Siegel, 1994.
 - [The Complete Turtle Trader](https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader?from_search=true&from_srp=true&qid=GnvRaEzSIM&rank=1), Michael W. Covel, 2007.
 - [The Craft of Investing](https://www.goodreads.com/book/show/683748.The_Craft_of_Investing), John Train, 1994.
-- [The Little Book of Trading](https://www.goodreads.com/book/show/16235023-the-little-book-of-trading), Michael W. Covel, 2011.
 - [The Little Book that Beats the Market](https://www.goodreads.com/book/show/300680.The_Little_Book_That_Beats_the_Market), Joel Greenblatt, 1999.
+- [The New Market Wizards](https://www.goodreads.com/book/show/27224350-new-market-wizards), Jack D. Schwager, 1992.
 - [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion?from_search=true&from_srp=true&qid=1jo2tuT0xp&rank=2), Mark Minervini, 2017.
+
+##### Trend Following
+- [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks), Matthew R. Kratter, 2015.
+- [Stocks on the Move](https://www.goodreads.com/book/show/25819574-stocks-on-the-move), Andreas Clenow, 2015.
+- [The Little Book of Trading](https://www.goodreads.com/book/show/16235023-the-little-book-of-trading), Michael W. Covel, 2011.
+- [Trading the Trends](https://www.goodreads.com/book/show/20428445-trading-the-trends), L. A. Little, 2011.
 - [Trend Following](https://www.goodreads.com/book/show/34855405-trend-following), Michael W. Covel, 2004.
+- [Trend Qualification and Trading](https://www.goodreads.com/book/show/18969247-trend-qualification-and-trading), L. A. Little, 2011.
+- [Trend Trading Set-Ups](https://www.goodreads.com/book/show/19569996-trend-trading-set-ups), L. A. Little, 2012.
+
+##### Price Action Trading
+- [Integrated Pitchfork Analysis: Basic to Intermediate Level](https://www.goodreads.com/book/show/9733016-integrated-pitchfork-analysis), Mircea Dologa, 2009.
+- [Price Action Breakdown](https://www.goodreads.com/book/show/29460388-price-action-breakdown), Laurentiu Damir, 2016.
+- [Price Action Trading Secrets](https://www.goodreads.com/book/show/55854507-price-action-trading-secrets), Rayner Teo, 2020.
+- [Pring on Price Patterns](https://www.goodreads.com/book/show/19138622-pring-on-price-patterns), Martin J. Pring, 2009.
+- [Stock Trading & Investing Using Volume Price Analysis](https://www.goodreads.com/book/show/25744381-stock-trading-investing-using-volume-price-analysis), Anna Coulling, 2015.
+- [Trading Price Action Trends](https://www.goodreads.com/book/show/19169498-trading-price-action-trends), Al Brooks, 2011.
 
 ##### Behavioral Finance and Psychological Aspect of Investing
-
 - [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6397985-the-little-book-of-behavioral-investing), James Montier, 2010.
 - [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds), James Surowiecki, 2004.
 - [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow), Daniel Kahneman, 2011.
 
-##### Macro Investing, Market Analysis, and Risk
-
+##### Macro Investing, Market Analysis, and Risk 
 - [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness), Nassim Nicholas Taleb, 2001.
 - [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance), Robert J. Shiller, 2000.
 - [The 5 Mistakes Every Investor Makes and How to Avoid Them: Getting Investing Right](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them), Peter Mallouk, 2014.
