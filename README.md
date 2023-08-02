@@ -107,37 +107,58 @@ A curated list of awesome websites and resources for stock market trading.
 - [Wallstreetmojo](https://www.wallstreetmojo.com) - Learn Investment Banking, Finance Modeling and Excel with more than 4800+ Articles, Self Study Guides, Resources and courses.
 
 ### Books
-- [Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management), Richard C. Grinold, Ronald Kahn, 1994.
-- [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street), Peter Lynch, 1992.
+
+##### Value Investing and Fundamental Analysis
+
 - [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/129878.Berkshire_Hathaway_Letters_to_Shareholders), Warren Buffett, 2016.
-- [Charlie Munger: The Complete Investor](https://www.goodreads.com/book/show/25530069-charlie-munger), Tren Griffin, 2015.
 - [Common Stocks and Uncommon Profits and Other Writings](https://www.goodreads.com/book/show/106835.Common_Stocks_and_Uncommon_Profits_and_Other_Writings), Philip A. Fisher, 1957.
-- [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness), Nassim Nicholas Taleb, 2001.
-- [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance), Robert J. Shiller, 2000.
 - [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety), Seth Klarman, 1991.
-- [Market Wizards: Interviews with Top Traders](https://www.goodreads.com/book/show/966769.Market_Wizards), Jack D. Schwager, 1989.
-- [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street), Peter Lynch, 1989.
+- [Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/27238590-security-analysis-for-investment-and-corporate-finance), Aswath Damodaran, 1994.
+- [Security Analysis](https://en.wikipedia.org/wiki/Security_Analysis_(book)), Benjamin Graham, 1934.
+- [The Dhandho Investor: The Low-Risk Value Method to High Returns](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor), Mohnish Pabrai, 2007.
+- [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor), Benjamin Graham, 1949.
+- [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing), Christopher H. Browne, 2006.
+- [The Most Important Thing: Uncommon Sense for the Thoughtful Investor](https://www.goodreads.com/book/show/9713317-the-most-important-thing), Howard Marks, 2011.
+- [The Thoughtful Investor](https://www.goodreads.com/book/show/3636.The_Thoughtful_Investor), Basant Maheshwari, 2011.
+- [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way), Robert G. Hagstrom, 2007.
+- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing), Bruce C. N. Greenwald, 2004.
+
+##### Quantitative Investing and Portfolio Management
+
+- [Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management), Richard C. Grinold, Ronald Kahn, 1994.
 - [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection), Harry M. Markowitz, 1968.
 - [Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management), Ludwig B. Chincarini, Daehwan Kim, 2006.
-- [Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/1422813.Damodaran_on_Valuation), Aswath Damodaran, 1994.
-- [Security Analysis](https://en.wikipedia.org/wiki/Security_Analysis_(book)), Benjamin Graham, 1934.
+
+##### General Stock Trading
+
+- [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street), Peter Lynch, 1992.
+- [Charlie Munger: The Complete Investor](https://www.goodreads.com/book/show/25695577-charlie-munger), Tren Griffin, 2015.
+- [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks), Matthew R. Kratter, 2015.
+- [Market Wizards: Interviews with Top Traders](https://www.goodreads.com/book/show/966769.Market_Wizards), Jack D. Schwager, 1989.
+- [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market](https://www.goodreads.com/book/show/1067.One_Up_On_Wall_Street), Peter Lynch, 1989.
 - [Stock Trading & Investing Using Volume Price Analysis](https://www.goodreads.com/book/show/25744381-stock-trading-investing-using-volume-price-analysis?from_search=true&from_srp=true&qid=1jo2tuT0xp&rank=1), Anna Coulling, 2015.
-- [Stocks for the Long Run](https://www.goodreads.com/book/show/965633.Stocks_for_the_Long_Run), Jeremy Siegel, 1994.
+- [Stocks for the Long Run](https://www.goodreads.com/book/show/142138.Stocks_for_the_Long_Run), Jeremy Siegel, 1994.
+- [The Complete Turtle Trader](https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader?from_search=true&from_srp=true&qid=GnvRaEzSIM&rank=1), Michael W. Covel, 2007.
+- [The Craft of Investing](https://www.goodreads.com/book/show/683748.The_Craft_of_Investing), John Train, 1994.
+- [The Little Book of Trading](https://www.goodreads.com/book/show/16235023-the-little-book-of-trading), Michael W. Covel, 2011.
+- [The Little Book that Beats the Market](https://www.goodreads.com/book/show/300680.The_Little_Book_That_Beats_the_Market), Joel Greenblatt, 1999.
+- [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion?from_search=true&from_srp=true&qid=1jo2tuT0xp&rank=2), Mark Minervini, 2017.
+- [Trend Following](https://www.goodreads.com/book/show/34855405-trend-following), Michael W. Covel, 2004.
+
+##### Behavioral Finance and Psychological Aspect of Investing
+
+- [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6397985-the-little-book-of-behavioral-investing), James Montier, 2010.
+- [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds), James Surowiecki, 2004.
+- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow), Daniel Kahneman, 2011.
+
+##### Macro Investing, Market Analysis, and Risk
+
+- [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness), Nassim Nicholas Taleb, 2001.
+- [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance), Robert J. Shiller, 2000.
 - [The 5 Mistakes Every Investor Makes and How to Avoid Them: Getting Investing Right](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them), Peter Mallouk, 2014.
 - [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance), George Soros, 1987.
 - [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_), Gerald M. Loeb, 1911.
 - [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable), Nassim Nicholas Taleb, 2007.
-- [The Dhandho Investor: The Low-Risk Value Method to High Returns](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor), Mohnish Pabrai, 2007.
-- [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor), Benjamin Graham, 1949.
-- [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6397985-the-little-book-of-behavioral-investing), James Montier, 2010.
-- [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing), Christopher H. Browne, 2006.
-- [The Most Important Thing: Uncommon Sense for the Thoughtful Investor](https://www.goodreads.com/book/show/9713317-the-most-important-thing), Howard Marks, 2011.
-- [The Thoughtful Investor](https://www.goodreads.com/book/show/3636.The_Thoughtful_Investor), Basant Maheshwari, 2011.
-- [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds), James Surowiecki, 2004.
-- [The little book that beats the market](https://www.goodreads.com/book/show/110419.The_Little_Book_That_Beats_the_Market), Joel Greenblatt, 1999.
-- [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion?from_search=true&from_srp=true&qid=1jo2tuT0xp&rank=2), Mark Minervini, 2017. 
-- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow), Daniel Kahneman, 2011.
-- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing), Bruce C. N. Greenwald, 2004.
 
 ### Most Important Stock Exchanges
 
