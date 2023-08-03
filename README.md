@@ -241,7 +241,8 @@ The book delves into the psychological aspects of investing, exploring common be
 The book by James Surowiecki delves into the concept that large groups of people collectively possess greater intelligence than individual experts. Published in 2004, it explores how the aggregation of information in groups leads to decisions often surpassing those made by any single member. Surowiecki supports his argument with various case studies and anecdotes, spanning multiple fields, with a primary focus on economics and psychology.
 
 
-#### Macro Investing, Market Analysis, and Risk
+#### Risk and Uncertainty
+
 - [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness) - Nassim Nicholas Taleb, 2001 </br>
 Nassim Nicholas Taleb's book, first published in 2001 with subsequent updated editions, delves into the fallibility of human knowledge. Part of Taleb's multi-volume philosophical essay on uncertainty called the Incerto, it challenges the misconception that humans often mistake random outcomes for non-random ones. The book explores various misperceptions of randomness, including survivorship bias and skewed distributions, shedding light on how human beings tend to seek explanations even when none exist. Taleb highlights how individuals can be easily misled by seemingly impressive statements or anecdotes without considering the underlying probabilities.
 
