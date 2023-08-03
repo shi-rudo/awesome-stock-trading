@@ -149,7 +149,7 @@ The book outlines the business and investment principles of value investing prac
 The book explores the fundamental techniques of value investing. It book has received positive reviews from the world's largest community of readers, with many praising its in-depth analysis of the value investing approach.
 
 #### Quantitative Investing and Portfolio Management
-- [Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
+- [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
 Active Portfolio Management is a book that provides a quantitative approach to producing returns and controlling risk. The book details how to apply economics, econometrics, and operations research to solving practical investment problems, and uncovering profit opportunities. It outlines an active management framework that begins with a benchmark portfolio, then defines exceptional returns as they relate to that benchmark.
 
 - [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection) - Harry M. Markowitz, 1968 </br>
