@@ -199,7 +199,7 @@ This beginner-friendly book introduces a trading strategy by Matthew R. Kratter.
 - [Stocks on the Move](https://www.goodreads.com/book/show/25819574-stocks-on-the-move) - Andreas Clenow, 2015 </br>
 Andreas F. Clenow, a hedge fund manager, authored a book that sheds light on the secrets of successful investing. In this book, Clenow delves into why most mutual funds consistently underperform and reveals how anyone can outperform them. He emphasizes the power of momentum investing as one of the few consistent methods to beat the markets, providing readers with a unique backstage pass to understand how established hedge funds achieve their impressive results. The book presents a rational approach to long-term market investing, addressing the challenges of stock markets and offering practical solutions to tackle them.
 
-- [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb, 1911.
+- [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb, 1911 </br>
   This book by Gerald M. Loeb offers a fresh perspective on investing from the past. Originally written in 1911, it provides investors with a straightforward account of how to profit and avoid losses in the constant tug-of-war between rising and falling markets. It presents valuable insights and timeless principles that can still be applied in today's investment landscape, making it a worthwhile read for those seeking to enhance their investment strategies.
 
 - [Trading the Trends](https://www.goodreads.com/book/show/20428445-trading-the-trends) - L. A. Little, 2011 </br>
