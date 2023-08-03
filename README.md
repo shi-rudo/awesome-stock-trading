@@ -225,9 +225,11 @@ Anna Coulling's book offers an in-depth exploration of volume price analysis in 
 Al Brooks' book offers a practical guide to profiting from institutional trading trends. It describes in detail the valuable insights individual bars and combinations of bars can provide traders about institutional activities. Understanding what institutions are doing is crucial because piggybacking on them is key to successful trading. The book breaks down Brooks' trading system into its essential components: institutional piggybacking or trend trading (the focus of this particular book in the series), trading ranges, and transitions or reversals.
 
 #### Behavioral Finance and Psychological Aspect of Investing
-- [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6397985-the-little-book-of-behavioral-investing) - James Montier, 2010.
-- [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki, 2004.
-- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) - Daniel Kahneman, 2011.
+- [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing) - James Montier, 2010 </br>
+The book delves into the psychological aspects of investing, exploring common behavioral biases that can impede investors' success in the market. Authored by James Montier, it provides valuable insights and practical advice on recognizing and overcoming these biases, enabling investors to make better-informed decisions and become more disciplined in their approach.
+
+- [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki, 2004 </br>
+The book by James Surowiecki delves into the concept that large groups of people collectively possess greater intelligence than individual experts. Published in 2004, it explores how the aggregation of information in groups leads to decisions often surpassing those made by any single member. Surowiecki supports his argument with various case studies and anecdotes, spanning multiple fields, with a primary focus on economics and psychology.
 
 #### Macro Investing, Market Analysis, and Risk
 - [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness) - Nassim Nicholas Taleb, 2001.
