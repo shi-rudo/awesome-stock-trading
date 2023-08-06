@@ -115,8 +115,8 @@ For nearly six decades, Warren Buffett has written an annual letter to his share
 - [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957 </br>
 This book is considered a classic and is used as part of several investment courses, such as Stanford Graduate School of Business. In the book, Fisher explains his basic views and approach to his investment strategies.
 
-- [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/21841022-damodaran-on-valuation) - Aswath Damodaran, 1994 </br> 
-Written by Aswath Damodaran, a professor of finance at New York University Stern School of Business. The book covers the theory and practice of valuation, which is the process of estimating the intrinsic value of an asset or a business. It provides a comprehensive and practical guide for investors and managers who want to apply valuation techniques to various types of assets.
+- [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/21841022-damodaran-on-valuation) - Aswath Damodaran, 1994 </br>
+Damodaran explains aspect of valuation, from the basics of estimating cash flows and discount rates to the principles for using multiples.
 
 - [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth Klarman, 1991 </br> 
 The book explains the principles and practices of value investing, which is based on buying undervalued securities that offer a margin of safety against potential losses.
