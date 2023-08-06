@@ -133,8 +133,8 @@ Written by Mohnish Pabrai, an investor of Indian origin, the book explains his v
 - [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor) - Benjamin Graham, 1949 </br>
 In this book, Grahame explains his investment principles and views regarding an investor's mindset. He shows how investors analyze the actual performance of companies and advises to disregard the changing moods of the market.
 
-- [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne, 2006 </br> 
-Brown teaches the fundamental lessons of value investing philosophy. The book describes the theory of value investing, which involves investing in undervalued companies and holding them for a long time, even if they are not popular or trendy. The author offers guidance on how to use basic information such as P/E ratios and points the way to free online stock-screening services, while making no big promises about market success.
+- [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne, 2006 </br>
+Brown explains the basic approaches of the value investing philosophy, but without making any big promises about market success. He provides guidance on the use of simple metrics such as the price-earnings ratio.
 
 - [The Most Important Thing](https://www.goodreads.com/book/show/41211699-the-most-important-thing) - Howard Marks, 2011 </br> 
 In this book, Howard Marks skillfully condenses the investment insights from his renowned client memos into one comprehensive text, making his philosophy accessible to a broader audience. Alongside his wisdom, the book includes valuable commentary, insights, and counterpoints from four distinguished investors and investment educators. These experts shed light on crucial concepts for successful investing, such as 'second-level thinking', understanding the price/value relationship, adopting patient opportunism, and practicing defensive investing.
