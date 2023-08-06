@@ -153,10 +153,10 @@ Greenwald explains the basic techniques of value investing and, in this context,
 In this book, Grinold and Kahn show how economics, econometrics, and operations research can be used to solve practical investment problems and identify profit opportunities.
 
 - [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection) - Harry M. Markowitz, 1968 </br>
-This book uses modern methods of analysis and computation to help investors find the best combinations of securities to meet their needs. It is written primarily for readers without a strong mathematical background, but also includes mathematical explanations of the subject in the appendices.
+A comprehensive explanation of analysis and calculation methods to help investors find the best combinations of securities to match their requirements.
 
 - [Quantitative Equity Portfolio Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management) - Ludwig B. Chincarini, Daehwan Kim, 2006 </br>
-This comprehensive guide delves into the construction and management of a high-yield quantitative equity portfolio. It starts by introducing the fundamental principles of quantitative active management and illustrates how to build such a portfolio based on these concepts. Authored by financial experts Ludwig Chincarini and Daehwan Kim, the book provides lucid explanations covering a wide range of topics, including basic models, factors and factor selection, stock screening and ranking, as well as more advanced subjects like fundamental factor models, economic factor models, and forecasting factor premiums and exposures.
+The authors address the construction and management of a portfolio using quantitative methods. Among other things, they offer explanations of factor models and the prediction of premiums and exposures.
 
 #### General Stock Trading
 - [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, 1992 </br>
