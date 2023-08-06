@@ -187,7 +187,7 @@ In the book, Train outlines his key strategies and principles that have brought 
 Michael W. Covel's book offers insights into the rules and philosophies used by successful traders. Drawing on the author's own trading experience and the wisdom of other traders, the book offers advice in a direct and easy-to-understand manner.
 
 - [The Little Book that Still Beats the Market](https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market) - Joel Greenblatt, 2007 </br>
-The Little Book That Still Beats the Market is a book by Joel Greenblatt, published in 2007. In the book, Greenblatt explains how investors can outperform the popular market averages by simply and systematically applying a formula that seeks out good businesses when they are available at bargain prices. The book is kept simple and is aimed at beginners. 
+Greenblatt explains how investors can outperform the popular market averages by systematically applying a formula. The book is kept simple and is aimed at beginners. 
 
 - [The New Market Wizards](https://www.goodreads.com/book/show/27224350-new-market-wizards) - Jack D. Schwager, 1992 </br>
 The New Market Wizards is a book by Jack D. Schwager that features interviews with successful traders. In the book, Schwager asks questions that readers with an interest or involvement in the financial markets would love to pose to the financial superstars, encouraging these financial wizards to share their insights. The book is entertaining, informative, and invaluable, and is destined to become another Schwager classic.
