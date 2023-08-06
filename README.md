@@ -216,7 +216,7 @@ Building on the neoclassical concept, Little presents traders and investors with
 
 #### Price Action Trading
 - [Price Action Breakdown](https://www.goodreads.com/book/show/29460388-price-action-breakdown) - Laurentiu Damir, 2016 </br>
-This book by Laurentiu Damir offers a comprehensive guide to trading using pure price action analysis in financial markets. Covering concepts, ideas, and trading methods based on pure price action, it can be applied to various financial markets, including Forex, Futures, Stocks, Commodities, and others. The approach is centered on identifying key supply and demand levels for trading. By studying this book, readers will learn how to analyze price action movements to identify the bulk of trading volume without relying on additional tools or technical indicators. It is a valuable resource for traders seeking to enhance their trading strategies using price action analysis.
+This book provides a comprehensive guide to trading pure price action analysis. It covers concepts, ideas and trading methods based on pure price action and can be applied to various financial markets.
 
 - [Price Action Trading Secrets](https://www.goodreads.com/book/show/55854507-price-action-trading-secrets) - Rayner Teo, 2020 </br>
 Rayner Teo's book is a comprehensive guide on using price action trading to achieve consistent profitability in the market. Covering trading strategies, tools, and techniques, the book is written in a simple, step-by-step manner, making it accessible even for beginners. Rayner Teo, the author, is a professional trader and well-known trading coach, adding credibility and real-world experience to the book.
