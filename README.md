@@ -225,10 +225,10 @@ Rayner Teo's book is intended as a guide to the use of price action trading. The
 Martin J. Pring's book provides a comprehensive examination of the most commonly used price patterns and offers insights into their effectiveness and logic. The book covers a range of patterns, including one- and two-bar patterns, outside bars, reversals, pennants, and more.
 
 - [Stock Trading & Investing Using Volume Price Analysis](https://www.goodreads.com/book/show/38296614-stock-trading-investing-using-volume-price-analysis) - Anna Coulling, 2015 </br>
-Anna Coulling's book offers an in-depth exploration of volume price analysis in stock trading and investing. It delves into the approach used by iconic traders like Jesse Livermore, Richard Wyckoff, and Richard Ney, who achieved success by understanding the power of volume and price information provided by the tape. The book features over 200 worked examples, primarily from US stock markets, while also including illustrations from futures markets, such as indices, commodities, currency futures, and bonds. This comprehensive guide provides valuable insights into using volume price analysis to make informed trading and investment decisions.
+Anna Coulling provides an in-depth examination of volume price analysis in stock trading. In doing so, she examines the approaches of other successful price analysis practitioners and explains them with examples.
 
 - [Trading Price Action Trends](https://www.goodreads.com/book/show/19169498-trading-price-action-trends) - Al Brooks, 2011 </br>
-Al Brooks' book offers a practical guide to profiting from institutional trading trends. It describes in detail the valuable insights individual bars and combinations of bars can provide traders about institutional activities. Understanding what institutions are doing is crucial because piggybacking on them is key to successful trading. The book breaks down Brooks' trading system into its essential components: institutional piggybacking or trend trading (the focus of this particular book in the series), trading ranges, and transitions or reversals.
+Al Brooks' book is intended as a practical guide to profiting from institutional trading trends.  The book breaks down Brooks' trading system into its essential components such as institutional piggybacking or trend trading.
 
 #### Behavioral Finance and Psychological Aspect of Investing
 - [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller, 2000 </br>
