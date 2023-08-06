@@ -146,7 +146,7 @@ Maheshwari, a renowned Indian investor, explains in his book topics of financial
 The book describes the business and investment principles of value investing according to Warren Buffett.
 
 - [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004 </br>
-The book explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.
+Greenwald explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.
 
 #### Quantitative Investing and Portfolio Management
 - [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
