@@ -128,7 +128,7 @@ This book, written by professors Benjamin Graham and David Dodd of Columbia Busi
 This book offers insight into the decision-making process of one of the most successful wealth managers, George Soros.
 
 - [The Dhandho Investor: The Low-Risk Value Method to High Returns](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor) - Mohnish Pabrai, 2007 </br>
-Written by Mohnish Pabrai, the book provides a potent and all-encompassing value investing approach that is both simple and approachable for individual investors. The book refines the Dhandho capital allocation framework, as used by perceptive Patels from India in their businesses, and demonstrates its successful application in the stock market.
+Written by Mohnish Pabrai, an investor of Indian origin, the book explains his value investing approach using the Dhandho capital allocation framework.
 
 - [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor) - Benjamin Graham, 1949 </br>
 The Intelligent Investor is a book by Benjamin Graham that teaches investors how to invest intelligently. The book focuses on investment principles and investors' attitudes, rather than the technique of analyzing securities. Graham's method advises investors to concentrate on the real-life performance of their companies and the dividends they receive, rather than paying attention to the changing sentiments of the market.
