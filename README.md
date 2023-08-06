@@ -139,14 +139,14 @@ Brown explains the basic approaches of the value investing philosophy, but witho
 - [The Most Important Thing](https://www.goodreads.com/book/show/41211699-the-most-important-thing) - Howard Marks, 2011 </br>
 In this book, Howard Marks summarizes investment insights from his client memos and explains his investment philosophy.
 
-- [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari, 2011 </br> 
-Covering many aspects of equity investment, the content draws from Mr. Maheshwari's journey as an investor and follows a loosely chronological order, starting from the 1990s. It concludes with dos and don'ts, along with his thoughts on leverage and a checklist for beginners.
+- [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari, 2011 </br>
+Maheshwari, a renowned Indian investor, explains in his book topics of financial analysis, the analysis of individual sectors and the behavioral aspect of investing.
 
 - [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way) - Robert G. Hagstrom, 2007 </br>
-The book outlines the business and investment principles of value investing practiced by American businessman and investor Warren Buffett. The book presents an in-depth examination of Warren Buffett's strategies, and the 'how and why' behind his selection of each of the major securities that have contributed to his remarkable record of success.
+The book describes the business and investment principles of value investing according to Warren Buffett.
 
-- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004 </br> 
-The book explores the fundamental techniques of value investing. It book has received positive reviews from the world's largest community of readers, with many praising its in-depth analysis of the value investing approach.
+- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004 </br>
+The book explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.
 
 #### Quantitative Investing and Portfolio Management
 - [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
