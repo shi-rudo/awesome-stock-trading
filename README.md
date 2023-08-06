@@ -232,7 +232,7 @@ Al Brooks' book is intended as a practical guide to profiting from institutional
 
 #### Behavioral Finance and Psychological Aspect of Investing
 - [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller, 2000 </br>
-The book by Robert J. Shiller delves into the psychological and behavioral factors influencing financial markets. Published in 2000 and updated in subsequent editions, it examines the concept of speculative bubbles and irrational exuberance, where investors' exuberant behavior leads to overvaluation of assets. Various historical market episodes are explored, presenting evidence of how investor sentiment and perception can drive market fluctuations. The book offers insights into the potential risks and challenges of investment decision-making.
+Robert J. Shiller's book addresses the psychological and behavioral factors that influence financial markets. It explores the concept of speculative bubbles and irrational exuberance, in which exuberant investor behavior leads to overvaluation of assets.
 
 - [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing) - James Montier, 2010 </br>
 The book delves into the psychological aspects of investing, exploring common behavioral biases that can impede investors' success in the market. Authored by James Montier, it provides valuable insights and practical advice on recognizing and overcoming these biases, enabling investors to make better-informed decisions and become more disciplined in their approach.
