@@ -131,7 +131,7 @@ This book offers insight into the decision-making process of one of the most suc
 Written by Mohnish Pabrai, an investor of Indian origin, the book explains his value investing approach using the Dhandho capital allocation framework.
 
 - [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor) - Benjamin Graham, 1949 </br>
-The Intelligent Investor is a book by Benjamin Graham that teaches investors how to invest intelligently. The book focuses on investment principles and investors' attitudes, rather than the technique of analyzing securities. Graham's method advises investors to concentrate on the real-life performance of their companies and the dividends they receive, rather than paying attention to the changing sentiments of the market.
+In this book, Grahame explains his investment principles and views regarding an investor's mindset. He shows how investors analyze the actual performance of companies and advises to disregard the changing moods of the market.
 
 - [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne, 2006 </br> 
 Brown teaches the fundamental lessons of value investing philosophy. The book describes the theory of value investing, which involves investing in undervalued companies and holding them for a long time, even if they are not popular or trendy. The author offers guidance on how to use basic information such as P/E ratios and points the way to free online stock-screening services, while making no big promises about market success.
