@@ -238,7 +238,7 @@ Robert J. Shiller's book addresses the psychological and behavioral factors that
 Author James Montier looks at the psychological aspects of investing and examines common behavioral biases that can hinder investors' success in the marketplace.
 
 - [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki, 2004 </br>
-The book by James Surowiecki delves into the concept that large groups of people collectively possess greater intelligence than individual experts. Published in 2004, it explores how the aggregation of information in groups leads to decisions often surpassing those made by any single member. Surowiecki supports his argument with various case studies and anecdotes, spanning multiple fields, with a primary focus on economics and psychology.
+James Surowiecki's book addresses the concept that large groups of people collectively have higher intelligence than individual experts. Surowiecki supports his argument with various case studies and anecdotes from different fields.
 
 
 #### Risk and Uncertainty
