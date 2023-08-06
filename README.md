@@ -193,7 +193,7 @@ Joel Greenblatt explains how investors can outperform the popular market average
 Jack Schwager interviews some of the most successful stock traders in the United States. Through these interviews, Schwager offers insight into the strategies, perspectives, and psychological insights of successful traders.
 
 - [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion) - Mark Minervini, 2017 </br>
-Think & Trade Like a Champion is a book by Mark Minervini that reveals the secrets, rules, and blunt truths of a stock market trader. In the book, Mark shows readers step-by-step how to use his time-tested principles to dramatically improve their performance and develop the confidence needed to achieve superior performance. Mark reveals his personal trading rules and the secret techniques that made him one of America's most successful stock traders.
+In this book, Mark Minervini explains readers how to apply his methods step by step to enhance their trading performance and create the confidence they need to outperform.
 
 #### Trend Following
 - [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks) - Matthew R. Kratter, 2015 </br>
