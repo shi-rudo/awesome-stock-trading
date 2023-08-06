@@ -187,10 +187,10 @@ In the book, Train outlines his key strategies and principles that have brought 
 Michael W. Covel's book offers insights into the rules and philosophies used by successful traders. Drawing on the author's own trading experience and the wisdom of other traders, the book offers advice in a direct and easy-to-understand manner.
 
 - [The Little Book that Still Beats the Market](https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market) - Joel Greenblatt, 2007 </br>
-Greenblatt explains how investors can outperform the popular market averages by systematically applying a formula. The book is kept simple and is aimed at beginners. 
+Joel Greenblatt explains how investors can outperform the popular market averages by systematically applying a formula. The book is kept simple and is aimed at beginners. 
 
 - [The New Market Wizards](https://www.goodreads.com/book/show/27224350-new-market-wizards) - Jack D. Schwager, 1992 </br>
-The New Market Wizards is a book by Jack D. Schwager that features interviews with successful traders. In the book, Schwager asks questions that readers with an interest or involvement in the financial markets would love to pose to the financial superstars, encouraging these financial wizards to share their insights. The book is entertaining, informative, and invaluable, and is destined to become another Schwager classic.
+Jack Schwager interviews some of the most successful stock traders in the United States. Through these interviews, Schwager offers insight into the strategies, perspectives, and psychological insights of successful traders.
 
 - [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion) - Mark Minervini, 2017 </br>
 Think & Trade Like a Champion is a book by Mark Minervini that reveals the secrets, rules, and blunt truths of a stock market trader. In the book, Mark shows readers step-by-step how to use his time-tested principles to dramatically improve their performance and develop the confidence needed to achieve superior performance. Mark reveals his personal trading rules and the secret techniques that made him one of America's most successful stock traders.
