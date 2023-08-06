@@ -136,8 +136,8 @@ In this book, Grahame explains his investment principles and views regarding an 
 - [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne, 2006 </br>
 Brown explains the basic approaches of the value investing philosophy, but without making any big promises about market success. He provides guidance on the use of simple metrics such as the price-earnings ratio.
 
-- [The Most Important Thing](https://www.goodreads.com/book/show/41211699-the-most-important-thing) - Howard Marks, 2011 </br> 
-In this book, Howard Marks skillfully condenses the investment insights from his renowned client memos into one comprehensive text, making his philosophy accessible to a broader audience. Alongside his wisdom, the book includes valuable commentary, insights, and counterpoints from four distinguished investors and investment educators. These experts shed light on crucial concepts for successful investing, such as 'second-level thinking', understanding the price/value relationship, adopting patient opportunism, and practicing defensive investing.
+- [The Most Important Thing](https://www.goodreads.com/book/show/41211699-the-most-important-thing) - Howard Marks, 2011 </br>
+In this book, Howard Marks summarizes investment insights from his client memos and explains his investment philosophy.
 
 - [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari, 2011 </br> 
 Covering many aspects of equity investment, the content draws from Mr. Maheshwari's journey as an investor and follows a loosely chronological order, starting from the 1990s. It concludes with dos and don'ts, along with his thoughts on leverage and a checklist for beginners.
