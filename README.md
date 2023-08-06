@@ -125,7 +125,7 @@ Margin of Safety explains the key fundamentals and practices of value investing.
 This book, written by professors Benjamin Graham and David Dodd of Columbia Business School, laid the intellectual foundation for what would later be called value investing. The first edition was published in 1934, shortly after the Wall Street crash and start of the Great Depression.
 
 - [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - George Soros, 1987 </br>
-This book offers an inside look into the decision-making process of one of the most successful money managers, George Soros. It features a new chapter by Soros, revealing the secrets to his success, along with a new preface and introduction. The book also includes a foreword by renowned economist Paul Volcker. It provides valuable insights into Soros's approach to finance and investment, making it an informative read for anyone interested in understanding the mindset and strategies of a highly accomplished investor.
+This book offers insight into the decision-making process of one of the most successful wealth managers, George Soros.
 
 - [The Dhandho Investor: The Low-Risk Value Method to High Returns](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor) - Mohnish Pabrai, 2007 </br>
 Written by Mohnish Pabrai, the book provides a potent and all-encompassing value investing approach that is both simple and approachable for individual investors. The book refines the Dhandho capital allocation framework, as used by perceptive Patels from India in their businesses, and demonstrates its successful application in the stock market.
