@@ -122,7 +122,7 @@ Damodaran explains aspect of valuation, from the basics of estimating cash flows
 Margin of Safety explains the key fundamentals and practices of value investing. He outlines what value investing looks like and where investors might find attractive opportunities.
 
 - [Security Analysis](https://en.wikipedia.org/wiki/Security_Analysis_(book)) - Benjamin Graham, 1934 </br> 
-This book, written by professors Benjamin Graham and David Dodd of Columbia Business School, laid the intellectual foundation for what would later be called value investing. The first edition was published in 1934, shortly after the Wall Street crash and start of the Great Depression.
+This book laid the intellectual foundation for what would later be called value investing. The first edition was published in 1934, shortly after the Wall Street crash and start of the Great Depression.
 
 - [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - George Soros, 1987 </br>
 This book offers insight into the decision-making process of one of the most successful wealth managers, George Soros.
