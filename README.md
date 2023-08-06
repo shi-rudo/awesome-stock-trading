@@ -109,8 +109,8 @@ The curated list of resources for research and learning about stock trading and 
 
 #### Value Investing and Fundamental Analysis
 
-- [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016 </br> 
-The book compiles the full unedited versions of each of Warren Buffett's letters to shareholders between 1965 and 2014. The book offers insight into Buffett's investment philosophy, business strategy, and personal values.
+- [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016 </br>
+For nearly six decades, Warren Buffett has written an annual letter to his shareholders. The letters, written between 1965 and 2014, reveal the investor's thoughts on investment strategy, share buybacks, corporate culture and much more.
 
 - [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957 </br> 
 Philip A. Fisher, a legendary investor and the founder of Fisher & Company, authored a significant book. This book presents Fisher's 15-point framework for identifying profitable stocks and offers valuable insights into market psychology, diversification, and the benefits of long-term investing. Throughout the book, Fisher emphasizes the importance of thorough research and understanding of a company before making investment decisions.
