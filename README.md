@@ -252,7 +252,7 @@ Part of Taleb's multi-volume philosophical essay on uncertainty, this book exami
 Mallouk's work discusses the most common mistakes investors make and how to avoid them. Among the most important lessons are the pitfalls of market timing and active trading, which are suboptimal compared to passive strategies.
 
 - [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) - Nassim Nicholas Taleb, 2007 </br>
-The book by Nassim Nicholas Taleb examines the concept of black swan events. These are rare and unpredictable occurrences that have a massive impact and are often retroactively rationalized. Taleb argues that such events shape our world more than regular, predictable occurrences, yet our understanding and ability to predict them are limited. The book discusses the consequences of black swans in various fields, including finance, history, and science, and emphasizes the importance of robustness and resilience in dealing with uncertainty and unpredictability.
+Taleb explores the concept of so-called black swans. These are rare and unpredictable events that have massive consequences and are often rationalized retroactively.
 
 ## Most Important Stock Exchanges
 
