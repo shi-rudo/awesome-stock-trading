@@ -235,7 +235,7 @@ Al Brooks' book is intended as a practical guide to profiting from institutional
 Robert J. Shiller's book addresses the psychological and behavioral factors that influence financial markets. It explores the concept of speculative bubbles and irrational exuberance, in which exuberant investor behavior leads to overvaluation of assets.
 
 - [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing) - James Montier, 2010 </br>
-The book delves into the psychological aspects of investing, exploring common behavioral biases that can impede investors' success in the market. Authored by James Montier, it provides valuable insights and practical advice on recognizing and overcoming these biases, enabling investors to make better-informed decisions and become more disciplined in their approach.
+Author James Montier looks at the psychological aspects of investing and examines common behavioral biases that can hinder investors' success in the marketplace.
 
 - [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki, 2004 </br>
 The book by James Surowiecki delves into the concept that large groups of people collectively possess greater intelligence than individual experts. Published in 2004, it explores how the aggregation of information in groups leads to decisions often surpassing those made by any single member. Surowiecki supports his argument with various case studies and anecdotes, spanning multiple fields, with a primary focus on economics and psychology.
