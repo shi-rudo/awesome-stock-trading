@@ -112,8 +112,8 @@ The curated list of resources for research and learning about stock trading and 
 - [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016 </br>
 For nearly six decades, Warren Buffett has written an annual letter to his shareholders. The letters, written between 1965 and 2014, reveal the investor's thoughts on investment strategy, share buybacks, corporate culture and much more.
 
-- [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957 </br> 
-Philip A. Fisher, a legendary investor and the founder of Fisher & Company, authored a significant book. This book presents Fisher's 15-point framework for identifying profitable stocks and offers valuable insights into market psychology, diversification, and the benefits of long-term investing. Throughout the book, Fisher emphasizes the importance of thorough research and understanding of a company before making investment decisions.
+- [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957 </br>
+This book is considered a classic and is used as part of several investment courses, such as Stanford Graduate School of Business. In the book, Fisher explains his basic views and approach to his investment strategies.
 
 - [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/21841022-damodaran-on-valuation) - Aswath Damodaran, 1994 </br> 
 Written by Aswath Damodaran, a professor of finance at New York University Stern School of Business. The book covers the theory and practice of valuation, which is the process of estimating the intrinsic value of an asset or a business. It provides a comprehensive and practical guide for investors and managers who want to apply valuation techniques to various types of assets.
