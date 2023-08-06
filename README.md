@@ -118,8 +118,8 @@ This book is considered a classic and is used as part of several investment cour
 - [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/21841022-damodaran-on-valuation) - Aswath Damodaran, 1994 </br>
 Damodaran explains aspect of valuation, from the basics of estimating cash flows and discount rates to the principles for using multiples.
 
-- [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth Klarman, 1991 </br> 
-The book explains the principles and practices of value investing, which is based on buying undervalued securities that offer a margin of safety against potential losses.
+- [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth Klarman, 1991 </br>
+The book explains the key fundamentals and practices of value investing. He models what value investing looks like and where investors might find attractive opportunities.
 
 - [Security Analysis](https://en.wikipedia.org/wiki/Security_Analysis_(book)) - Benjamin Graham, 1934 </br> 
 This book, written by professors Benjamin Graham and David Dodd of Columbia Business School, laid the intellectual foundation for what would later be called value investing. The first edition was published in 1934, shortly after the Wall Street crash and start of the Great Depression.
