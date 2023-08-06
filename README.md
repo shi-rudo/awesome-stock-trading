@@ -219,7 +219,7 @@ Building on the neoclassical concept, Little presents traders and investors with
 This book provides a comprehensive guide to trading pure price action analysis. It covers concepts, ideas and trading methods based on pure price action and can be applied to various financial markets.
 
 - [Price Action Trading Secrets](https://www.goodreads.com/book/show/55854507-price-action-trading-secrets) - Rayner Teo, 2020 </br>
-Rayner Teo's book is a comprehensive guide on using price action trading to achieve consistent profitability in the market. Covering trading strategies, tools, and techniques, the book is written in a simple, step-by-step manner, making it accessible even for beginners. Rayner Teo, the author, is a professional trader and well-known trading coach, adding credibility and real-world experience to the book.
+Rayner Teo's book is intended as a guide to the use of price action trading. The book covers trading strategies, instruments and techniques and is written in a simple, step-by-step manner.
 
 - [Pring on Price Patterns](https://www.goodreads.com/book/show/19138622-pring-on-price-patterns) - Martin J. Pring, 2009 </br>
 Martin J. Pring's book delves into the world of price pattern analysis and interpretation in technical analysis and trading. It provides an extensive exploration of the most widely used price patterns, offering insights into their effectiveness and rationale. The book covers a range of patterns, including one- and two-bar patterns, outside bars, reversals, pennants, and more, offering valuable knowledge for traders looking to enhance their technical analysis skills.
