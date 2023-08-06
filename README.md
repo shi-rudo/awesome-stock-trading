@@ -212,7 +212,7 @@ Michael W. Covel's book explains trend following without explicitly addressing s
 Through a proven technical approach, the book explains how to gauge the likelihood of trend continuation and its potential for better trading results. Readers will gain understanding on timing entries, taking profits, and effectively exiting trades based on these trends.
 
 - [Trend Trading Set-Ups](https://www.goodreads.com/book/show/19569996-trend-trading-set-ups) - L. A. Little, 2012 </br>
-L.A. Little's book offers a comprehensive step-by-step process for profiting from neoclassical qualified trend trading. Building on the neoclassical concept introduced in Trend Qualification and Trading, the book presents traders and investors with a robust methodology to uncover the most promising trade set-ups and achieve precise timing for trade entries like never before. In "Trend Trading Set-Ups," Little reveals the data supporting qualified trends and introduces a novel concept incorporating time to calculate trend failure probability rates. This book is an invaluable resource for traders seeking to enhance their trend trading strategies and maximize their profit potential in the financial markets.
+Building on the neoclassical concept, Little presents traders and investors with a robust methodology to discover promising trade setups and achieve precise timing for trade entry.
 
 #### Price Action Trading
 - [Price Action Breakdown](https://www.goodreads.com/book/show/29460388-price-action-breakdown) - Laurentiu Damir, 2016 </br>
