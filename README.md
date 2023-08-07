@@ -256,11 +256,11 @@ Taleb explores the concept of so-called black swans. These are rare and unpredic
 
 ## Most Important Stock Exchanges
 
-- 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com): Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
-- 🇺🇸 [NASDAQ](https://www.nasdaq.com): Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
-- 🇯🇵 [Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english/): Third largest stock exchange in the world by market capitalization, and the largest in Asia.
-- 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/): Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
-- 🇭🇰 [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/): One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
-- 🇬🇧 [London Stock Exchange (LSE)](https://www.londonstockexchange.com): One of the oldest and most important stock exchanges in the world, with over 3,000 listed companies.
-- 🇪🇺 [Euronext](https://www.euronext.com/en): A pan-European stock exchange operating in several countries, including France, the Netherlands, Belgium, Portugal, and Ireland.
-- 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com): The largest stock exchange in Germany owned and operated by Deutsche Börse. 
+- 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
+- 🇺🇸 [NASDAQ](https://www.nasdaq.com) - Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
+- 🇯🇵 [Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english/) - Third largest stock exchange in the world by market capitalization, and the largest in Asia.
+- 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/) - Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
+- 🇭🇰 [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/) - One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
+- 🇬🇧 [London Stock Exchange (LSE)](https://www.londonstockexchange.com) - One of the oldest and most important stock exchanges in the world, with over 3,000 listed companies.
+- 🇪🇺 [Euronext](https://www.euronext.com/en) - A pan-European stock exchange operating in several countries, including France, the Netherlands, Belgium, Portugal, and Ireland.
+- 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com) - The largest stock exchange in Germany owned and operated by Deutsche Börse. 
