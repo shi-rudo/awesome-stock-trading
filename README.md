@@ -1,4 +1,4 @@
-# Awesome Stock Trading[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Stock Trading [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Curated List of Awesome Stock Trading Resources](./src/assets/img/awesome-stock-trading-list-banner.png)
 
