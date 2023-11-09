@@ -254,6 +254,11 @@ Mallouk's work discusses the most common mistakes investors make and how to avoi
 - [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) - Nassim Nicholas Taleb, 2007 </br>
 Taleb explores the concept of so-called black swans. These are rare and unpredictable events that have massive consequences and are often rationalized retroactively.
 
+#### Contemporary History
+- [Dot.con: How America Lost Its Mind and Money in the Internet Era](https://www.goodreads.com/book/show/1308591.Dot_con) - John Cassidy, 2002 </br>
+Cassidy chronicles the rise and fall of the dot-com bubble with insight and flair. He introduces the key players and events that shaped the Internet era, from visionary entrepreneurs to ruthless investors.
+
+
 ## Most Important Stock Exchanges
 
 - 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
