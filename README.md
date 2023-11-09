@@ -10,7 +10,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Stock Screener](#stock-screener)
 - [Charting](#charting)
 - [News](#news)
-- [Commentaries](#analysis--commentaries)
+- [Commentaries](#commentaries)
 - [Portfolio Tracker](#portfolio-tracker)
 - [Strategy Backtesting](#strategy-backtesting)
 - [Stock Picks](#stock-picks)
@@ -73,7 +73,7 @@ The curated list of resources for research and learning about stock trading and 
 - [The Street](https://www.thestreet.com) - Financial news and investing website that offers stock market analysis, investment strategies, and personal finance advice.
 - [Yahoo Finance](https://finance.yahoo.com) - Financial news and data website that provides real-time stock quotes, financial news, and investment analysis.
 
-## Analysis & Commentaries
+## Commentaries
 - [J.P. Morgan - Market Updates](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/) - Weekly commentaries to get market insights from J.P. Morgan.
 
 ## Portfolio Tracker
