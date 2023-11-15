@@ -51,7 +51,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Cnbc Stock Screener](https://www.cnbc.com/stock-screener/) - Stock screener for US stock market.
 - [Finviz](https://finviz.com) - Free stock screener with financial visualizations.
 - [Market Beat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
-- [Simply Wall St Stock Screener](https://simplywall.st/screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
+- [Simply Wall St Stock Screener](https://simplywall.st) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Tip Ranks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Trading Terminal Scanner](https://scanner.tradingterminal.com) - US market stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Wallmine Free Stock Screener](https://wallmine.com/screener) - Free stock screener that allows filtering stocks by market cap, sector, industry, and more.
