@@ -51,7 +51,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Cnbc Stock Screener](https://www.cnbc.com/stock-screener/) - Stock screener for US stock market.
 - [Finviz](https://finviz.com) - Free stock screener with financial visualizations.
 - [Market Beat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
-- [Simply Wall St Stock Screener](https://simplywall.st) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
+- [Simply Wall St Stock Screener](https://simplywall.st/features/stock-screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Tip Ranks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Trading Terminal Scanner](https://scanner.tradingterminal.com) - US market stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Wallmine Free Stock Screener](https://wallmine.com/screener) - Free stock screener that allows filtering stocks by market cap, sector, industry, and more.
@@ -202,6 +202,9 @@ Jack Schwager interviews some of the most successful stock traders in the United
 In this book, Mark Minervini explains readers how to apply his methods step by step to enhance their trading performance and create the confidence they need to outperform.
 
 #### Trend Following
+- [Investing with Volume Analysis](https://www.goodreads.com/book/show/12664470-investing-with-volume-analysis) - Buff Dormeier, 2011 </br>
+  Dormeier offers insights into using volume metrics to enhance stock trading strategies, providing a framework for interpreting price-volume relationships to predict market trends.
+
 - [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks) - Matthew R. Kratter, 2015 </br>
 This beginner-friendly book presents a trading strategy by Matthew R. Kratter. It is designed to give readers the knowledge and skills to make profitable trades in momentum stocks.
 
