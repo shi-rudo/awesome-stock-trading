@@ -52,21 +52,15 @@ The SMA is calculated by taking the arithmetic mean of a given set of prices ove
 \textit{SMA}_{t, \text{next}} = \textit{SMA}_{t, \text{prev}} + \frac{1}{t} \Big( p_{n+1} - p_{n-t+1} \Big)
 ```
 
-where:
-- $\textit{SMA}_{t}$ is the Simple Moving Average over the last $t$ periods.
-- $p_{n}$ is the most recent data point.
-- $p_{n-t+1}$ is the $t$-th most recent data point.
-- $\textit{SMA}_{t, \text{next}}$ is the updated SMA after adding a new data point $p_{n+1}$.
-- $\textit{SMA}_{t, \text{prev}}$ is the previous SMA before adding the new data point.
-- $t$ is the number of periods over which the average is calculated.
-
-### Example
-
-For a 5-day SMA:
-
-1. Collect the closing prices for the last 5 days: \( P_1, P_2, P_3, P_4, P_5 \).
-2. Add the prices: \( P_1 + P_2 + P_3 + P_4 + P_5 \).
-3. Divide by the number of periods (5): \( \frac{P_1 + P_2 + P_3 + P_4 + P_5}{5} \).
+```math
+\text{where:}
+- \textit{SMA}_{t} \text{ is the Simple Moving Average over the last } t \text{ periods.}
+- p_{n} \text{ is the most recent data point.}
+- p_{n-t+1} \text{ is the } t\text{-th most recent data point.}
+- \textit{SMA}_{t, \text{next}} \text{ is the updated SMA after adding a new data point } p_{n+1}.
+- \textit{SMA}_{t, \text{prev}} \text{ is the previous SMA before adding the new data point.}
+- t \text{ is the number of periods over which the average is calculated.}
+```
 
 ## Application
 
