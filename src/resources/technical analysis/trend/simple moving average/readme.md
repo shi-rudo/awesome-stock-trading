@@ -48,8 +48,8 @@ where:
 - $\textit{SMA}_{t}$ is the Simple Moving Average over the last $t$ periods.
 - $p_{n}$ is the most recent data point.
 - $p_{n-t+1}$ is the $t$-th most recent data point.
-- $\textit{SMA}_{t, \text{next}}$ is the updated SMA after adding a new data point $p_{n+1}$.
-- $\textit{SMA}_{t, \text{prev}}$ is the previous SMA before adding the new data point.
+- $`\textit{SMA}_{t, \text{next}}`$ is the updated SMA after adding a new data point $p_{n+1}$.
+- $`\textit{SMA}_{t, \text{prev}}`$ is the previous SMA before adding the new data point.
 - $t$ is the number of periods over which the average is calculated.
 
 ## Application
