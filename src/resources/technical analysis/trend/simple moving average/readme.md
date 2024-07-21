@@ -23,44 +23,34 @@ The SMA is used to:
 The SMA is calculated by taking the arithmetic mean of a given set of prices over a specific number of periods.
 
 ### Formula
-
 #### Initial Calculation of SMA
-
 ```math
 \textit{SMA}_{t} = \frac{p_{n-t+1} + p_{n-t+2} + \cdots + p_{n}}{t}
 ```
-
 ```math
 \textit{SMA}_{t} = \frac{1}{t} \sum_{i=n-t+1}^{n} p_{i}
 ```
 
 #### Updating the SMA
-
 ```math
 \textit{SMA}_{t, \text{next}} = \frac{1}{t} \sum_{i=n-t+2}^{n+1} p_{i}
 ```
-
 ```math
 \textit{SMA}_{t, \text{next}} = \frac{1}{t} \Big( p_{n-t+2} + p_{n-t+3} + \dots + p_{n} + p_{n+1} \Big)
 ```
-
 ```math
 \textit{SMA}_{t, \text{next}} = \frac{1}{t} \Big( p_{n-t+1} + p_{n-t+2} + \dots + p_{n} \Big) - \frac{p_{n-t+1}}{t} + \frac{p_{n+1}}{t}
 ```
-
 ```math
 \textit{SMA}_{t, \text{next}} = \textit{SMA}_{t, \text{prev}} + \frac{1}{t} \Big( p_{n+1} - p_{n-t+1} \Big)
 ```
-
-```math
-\text{where:} \\
-- \textit{SMA}_{t} \text{ is the Simple Moving Average over the last } t \text{ periods.} \\
-- p_{n} \text{ is the most recent data point.} \\
-- p_{n-t+1} \text{ is the } t\text{-th most recent data point.} \\
-- \textit{SMA}_{t, \text{next}} \text{ is the updated SMA after adding a new data point } p_{n+1}. \\
-- \textit{SMA}_{t, \text{prev}} \text{ is the previous SMA before adding the new data point.} \\
-- t \text{ is the number of periods over which the average is calculated.}
-```
+where:
+- $\textit{SMA}_{t}$ is the Simple Moving Average over the last $t$ periods.
+- $p_{n}$ is the most recent data point.
+- $p_{n-t+1}$ is the $t$-th most recent data point.
+- $\textit{SMA}_{t, \text{next}}$ is the updated SMA after adding a new data point $p_{n+1}$.
+- $\textit{SMA}_{t, \text{prev}}$ is the previous SMA before adding the new data point.
+- $t$ is the number of periods over which the average is calculated.
 
 ## Application
 
