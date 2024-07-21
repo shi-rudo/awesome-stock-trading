@@ -26,31 +26,31 @@ The SMA is calculated by taking the arithmetic mean of a given set of prices ove
 
 #### Initial Calculation of SMA
 
-$$
+```math
 \textit{SMA}_{t} = \frac{p_{n-t+1} + p_{n-t+2} + \cdots + p_{n}}{t}
-$$
+```
 
-$$
+```math
 \textit{SMA}_{t} = \frac{1}{t} \sum_{i=n-t+1}^{n} p_{i}
-$$
+```
 
 #### Updating the SMA
 
-$$
+```math
 \textit{SMA}_{t, \text{next}} = \frac{1}{t} \sum_{i=n-t+2}^{n+1} p_{i}
-$$
+```
 
-$$
+```math
 \textit{SMA}_{t, \text{next}} = \frac{1}{t} \Big( p_{n-t+2} + p_{n-t+3} + \dots + p_{n} + p_{n+1} \Big)
-$$
+```
 
-$$
+```math
 \textit{SMA}_{t, \text{next}} = \frac{1}{t} \Big( p_{n-t+1} + p_{n-t+2} + \dots + p_{n} \Big) - \frac{p_{n-t+1}}{t} + \frac{p_{n+1}}{t}
-$$
+```
 
-$$
+```math
 \textit{SMA}_{t, \text{next}} = \textit{SMA}_{t, \text{prev}} + \frac{1}{t} \Big( p_{n+1} - p_{n-t+1} \Big)
-$$
+```
 
 where:
 - $\textit{SMA}_{t}$ is the Simple Moving Average over the last $t$ periods.
@@ -59,7 +59,6 @@ where:
 - $\textit{SMA}_{t, \text{next}}$ is the updated SMA after adding a new data point $p_{n+1}$.
 - $\textit{SMA}_{t, \text{prev}}$ is the previous SMA before adding the new data point.
 - $t$ is the number of periods over which the average is calculated.
-
 
 ### Example
 
