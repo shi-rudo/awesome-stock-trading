@@ -18,29 +18,45 @@ The SMI is used to:
 
 ## Calculation
 
-The SMI is calculated by comparing the market's performance in the early and late trading hours of each day.
+The SMI is calculated by comparing the market's performance in the early and late trading hours of each day and adjusting the previous day's SMI value accordingly.
 
 ### Formula
 #### Initial Calculation of SMI
+Today's Smart Money Index is calculated as follows:
 ```math
-\text{SMI}_{\text{daily}} = (\text{Last Hour Close} - \text{Previous Close}) - (\text{First 30 Minutes Close} - \text{Previous Close})
-```
-```math
-\text{SMI}_{\text{daily}} = \text{Last Hour Close} - \text{First 30 Minutes Close}
-```
-
-#### Running Total
-```math
-\text{SMI}_{\text{total}} = \sum_{d=1}^{n} \text{SMI}_{\text{daily, d}}
+\text{SMI}_{\text{today}} = \text{SMI}_{\text{yesterday}} - (\text{First 30 Minutes Gain/Loss}) + (\text{Last Hour Gain/Loss})
 ```
 where:
-- $`\text{SMI}_{\text{daily}}`$ is the Smart Money Index for the current day.
-- $`\text{Last Hour Close}`$ is the closing price at the end of the last hour of trading.
-- $`\text{First 30 Minutes Close}`$ is the closing price at the end of the first 30 minutes of trading.
-- $`\text{Previous Close}`$ is the closing price of the previous trading day.
-- $`\text{SMI}_{\text{total}}`$ is the cumulative SMI over time.
-- $d$ is the trading day index.
-- $n$ is the number of trading days in the period.
+- $`\text{SMI}_{\text{today}}`$ is today's Smart Money Index.
+- $`\text{SMI}_{\text{yesterday}}`$ is the Smart Money Index from the previous day.
+- $`\text{First 30 Minutes Gain/Loss}`$ is the change in the market during the first 30 minutes of trading today.
+- $`\text{Last Hour Gain/Loss}`$ is the change in the market during the last hour of trading today.
+
+For the first calculation of SMI, use the closing price of the Dow Jones Industrial Average (DJIA) as the initial value:
+```math
+\text{SMI}_{\text{initial}} = \text{Previous Close}
+```
+
+### Detailed Calculation
+
+1. **Previous Close (P_{close})**: The closing price of the previous trading day.
+2. **First 30 Minutes Close (P_{first30})**: The market price at the end of the first 30 minutes of trading.
+3. **Last Hour Close (P_{lasthour})**: The market price at the end of the last hour of trading.
+
+#### First 30 Minutes Gain/Loss
+```math
+\text{First 30 Minutes Gain/Loss} = P_{first30} - P_{close}
+```
+
+#### Last Hour Gain/Loss
+```math
+\text{Last Hour Gain/Loss} = P_{lasthour} - P_{close}
+```
+
+#### Today's Smart Money Index
+```math
+\text{SMI}_{\text{today}} = \text{SMI}_{\text{yesterday}} - (P_{first30} - P_{close}) + (P_{lasthour} - P_{close})
+```
 
 ## Application
 
