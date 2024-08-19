@@ -61,6 +61,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Charting
 - [TradingView](https://www.tradingview.com) - Platform that offers charting tools, trading ideas, and real-time market data for stocks, forex, cryptocurrencies, and other financial instruments.
 - [StockCharts](https://stockcharts.com) - Technical analysis and charting website that provides advanced charting tools, custom indicators, and market analysis for stocks, funds, and indices.
+- [Robinhood Stock Analyzer](https://github.com/uppusaikiran/robinhood_stock_analyzer) - A comprehensive tool for analyzing stock transactions and portfolio performance, specifically designed for integration with Robinhood.
 
 ## News
 - [Barron's](https://www.barrons.com) - Financial magazine that provides news, analysis, and insights on the stock market, investing, and personal finance.
