@@ -79,6 +79,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Portfolio Tracker
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
 - [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+- [NVSTly](https://nvstly.com) - A free, interactive social investing platform where traders can track, share, or copy trades in real-time with extensive insights on every position & in-depth performance stats.
 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
@@ -104,6 +105,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
 - [Polygon](https://polygon.io/) - Polygon offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
+- [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies. Financial Modeling Prep stock price API is in real time, the company reports can be found in quarter or annual format, and goes back 30 years in history.
 
 
 ## Knowledge
