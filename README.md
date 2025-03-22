@@ -100,6 +100,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Stock APIs
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [Financial Data](https://financialdata.net/) - Financial Data API provides stock market data, financial statements, insider and institutional trading data, and more.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Morningstar](https://developer.morningstar.com) - Provides data, research, and reports.
