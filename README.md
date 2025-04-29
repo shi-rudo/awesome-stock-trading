@@ -80,6 +80,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Portfolio Tracker
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
 - [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+- [Robinhood Transaction Analyzer](https://github.com/uppusaikiran/robinhood-transaction-analyzer) - A tool to analyze Robinhood stock transactions and generate insights.
 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
