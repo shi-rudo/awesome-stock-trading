@@ -103,6 +103,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Morningstar](https://developer.morningstar.com) - Provides data, research, and reports.
+- [Vedika Astrology Finance API](https://vedika.io) - AI-powered Vedic astrology API for stock trading - provides muhurta timing (auspicious entry/exit points), planetary transits analysis, dasha periods for market timing, and astrological market sentiment analysis
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
 - [Polygon](https://polygon.io/) - Polygon offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
