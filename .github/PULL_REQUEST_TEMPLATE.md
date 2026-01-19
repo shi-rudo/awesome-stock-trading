@@ -44,3 +44,7 @@ Why should this resource be included?
 
 ## Sources
 List links to evidence of relevance:
+
+---
+
+**Note:** If the relevance criteria are not met, the pull request will be closed without comment. We appreciate the effort you made to contribute to this list and encourage you to submit resources that meet our guidelines in the future.
