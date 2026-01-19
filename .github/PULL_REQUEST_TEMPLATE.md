@@ -1,24 +1,35 @@
-## Description
+## Resource Information
+- **Name:**
+- **URL:**
+- **Category:** [Books|Website|Tool|API|Other]
 
-Please include a summary of the changes and which issue is fixed. Please also include relevant motivation and context.
+## Relevance Criteria Checklist
 
-## Type of Change
+### Mandatory
+- [ ] Directly related to stock trading or investing
+- [ ] At least 3 years old OR qualifies for exception
+- [ ] Not promotional content
+- [ ] Not already in the list
 
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Breaking change
-- [ ] Documentation update
+### Evidence of Relevance (select at least 2)
+- [ ] Covered by reputable financial media (2+ independent sources)
+- [ ] Book: 2+ independent reviews or academic citations
+- [ ] Used in educational contexts (courses, universities)
+- [ ] Industry recognition (awards, expert recommendations)
+- [ ] Significant community adoption/user base
+- [ ] Referenced in technical/educational materials
 
-## Checklist
+### Exception (optional)
+- [ ] New resource (under 3 years) with exceptional circumstances:
+  - [ ] Recommended by established sources (3+ independent confirmations)
+  - [ ] Immediate widespread media coverage
+  - [ ] Unique breakthrough value, meaning:
+    - Provides innovative approach not available elsewhere
+    - Addresses a documented gap in existing resources
+    - NOT merely: UI improvements, copies of existing tools, or hype without substance
 
-- [ ] My code follows the project's style guidelines
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+## Justification
+Why should this resource be included?
 
-## Related Issue
-
-Fixes #
+## Sources
+List links to evidence of relevance:
