@@ -7,6 +7,9 @@
 > - "Significant community adoption/user base"
 > - "Referenced in technical/educational materials"
 >
+> **For Books:** Only books published by a recognized publisher are accepted.
+> Self-published books will NOT be accepted.
+>
 > **For Websites, Tools, APIs:** Resources will NOT be accepted if the website
 > lacks clear information about the legal entity/identity. A simple "© by XYZ"
 > or anonymous contact form is considered an indication that this is NOT a
@@ -31,6 +34,7 @@
 - [ ] Technical resources (tools, APIs, websites): At least 3 years old OR qualifies for exception
 
 ### For Books (select at least 2)
+- [ ] Published by a recognized publisher (no self-published books)
 - [ ] 2+ independent book reviews
 - [ ] Academic citations or educational usage
 - [ ] Multiple editions indicating sustained relevance
