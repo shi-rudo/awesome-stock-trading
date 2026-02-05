@@ -271,20 +271,57 @@ Cassidy chronicles the rise and fall of the dot-com bubble with insight and flai
 
 ## Most Important Stock Exchanges
 
-- 🇦🇺 [Australian Securities Exchange (ASX)](https://www.asx.com.au) - The largest stock exchange in Australia, known for its strong mining and resource sector.
-- 🇧🇷 [B3 (Bovespa)](https://www.b3.com.br) - The largest stock exchange in Latin America and one of the fastest-growing markets globally.
-- 🇮🇳 [Bombay Stock Exchange (BSE)](https://www.bseindia.com) - The oldest stock exchange in Asia, founded in 1875, and one of the largest in India.
-- 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com) - The largest stock exchange in Germany owned and operated by Deutsche Börse.
-- 🇭🇰 [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/) - One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
-- 🇰🇷 [Korea Exchange (KRX)](https://www.koreaexchange.org) - The sole securities exchange operator in South Korea, hosting the KOSPI index.
-- 🇬🇧 [London Stock Exchange (LSE)](https://www.londonstockexchange.com) - One of the oldest and most important stock exchanges in the world, with over 3,000 listed companies.
-- 🇺🇸 [NASDAQ](https://www.nasdaq.com) - Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
-- 🇮🇳 [National Stock Exchange of India (NSE)](https://www.nseindia.com) - The largest stock exchange in India by market capitalization and trading volume.
-- 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
-- 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/) - Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
-- 🇨🇳 [Shenzhen Stock Exchange (SZSE)](https://www.szse.cn/) - One of the largest stock exchanges in China, known for its focus on technology and growth companies.
-- 🇸🇬 [Singapore Exchange (SGX)](https://www.sgx.com) - One of the leading Asian exchanges, known for its regulatory excellence and derivatives market.
-- 🇨🇭 [Swiss Stock Exchange (SIX)](https://www.six-group.com) - The principal stock exchange in Switzerland, known for its life sciences and financial services companies.
-- 🇯🇵 [Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english/) - Third largest stock exchange in the world by market capitalization, and the largest in Asia.
-- 🇨🇦 [Toronto Stock Exchange (TSX)](https://www.tsx.com) - The largest stock exchange in Canada and a major global mining and energy hub.
-- 🇪🇺 [Euronext](https://www.euronext.com/en) - A pan-European stock exchange operating in several countries, including France, the Netherlands, Belgium, Portugal, and Ireland.
+The following list outlines major stock exchanges of global relevance.
+Descriptions focus on structure, scope, and market role rather than time-dependent rankings.
+
+* 🇦🇺 **Australian Securities Exchange (ASX)**
+  Primary securities exchange in Australia. Strong concentration in mining, commodities, and financial services.
+
+* 🇧🇷 **B3 (Brasil, Bolsa, Balcão)**
+  The main exchange in Brazil and Latin America. Operates equities, derivatives, and clearing services.
+
+* 🇮🇳 **Bombay Stock Exchange (BSE)**
+  Asia’s oldest stock exchange. Major venue for Indian equities and indices.
+
+* 🇩🇪 **Frankfurter Wertpapierbörse (Börse Frankfurt)**
+  Germany’s principal stock exchange, operated by Deutsche Börse.
+  Electronic trading is conducted via **Xetra**.
+
+* 🇭🇰 **Hong Kong Stock Exchange (HKEX)**
+  Key international financial hub connecting Chinese and global capital markets.
+
+* 🇰🇷 **Korea Exchange (KRX)**
+  South Korea’s sole securities exchange operator, covering equities, derivatives, and bonds.
+
+* 🇬🇧 **London Stock Exchange (LSE)**
+  One of the world’s leading international listing venues, particularly for global and cross-border issuers.
+
+* 🇺🇸 **NASDAQ**
+  Electronic exchange with a strong focus on technology and growth-oriented companies.
+
+* 🇮🇳 **National Stock Exchange of India (NSE)**
+  India’s largest exchange by trading volume, known for its fully electronic infrastructure.
+
+* 🇺🇸 **New York Stock Exchange (NYSE)**
+  Central venue for large-cap and blue-chip companies, operating a hybrid trading model.
+
+* 🇨🇳 **Shanghai Stock Exchange (SSE)**
+  Major mainland Chinese exchange, focused on large state-owned and industrial enterprises.
+
+* 🇨🇳 **Shenzhen Stock Exchange (SZSE)**
+  Chinese exchange with emphasis on growth, technology, and small- to mid-cap companies.
+
+* 🇸🇬 **Singapore Exchange (SGX)**
+  Regional financial hub with strengths in derivatives, commodities, and international listings.
+
+* 🇨🇭 **SIX Swiss Exchange**
+  Switzerland’s principal exchange, known for stability and strong representation of financial and life-science firms.
+
+* 🇯🇵 **Tokyo Stock Exchange (TSE)**
+  Japan’s primary exchange, operated by Japan Exchange Group (JPX).
+
+* 🇨🇦 **Toronto Stock Exchange (TSX)**
+  Canada’s main equity market, globally relevant for mining and energy companies.
+
+* 🇪🇺 **Euronext**
+  Pan-European exchange group operating regulated markets in multiple European countries, including France, the Netherlands, Belgium, Ireland, Portugal, Italy, and Norway.
