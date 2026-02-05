@@ -114,7 +114,7 @@ The curated list of resources for research and learning about stock trading and 
 
 ## Books
 
-#### Value Investing and Fundamental Analysis
+### Value Investing and Fundamental Analysis
 
 - [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016 </br>
 For nearly six decades, Warren Buffett has written an annual letter to his shareholders. The letters, written between 1965 and 2014, reveal the investor's thoughts on investment strategy, share buybacks, corporate culture and much more.
@@ -155,7 +155,7 @@ The book describes the business and investment principles of value investing acc
 - [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004 </br>
 Greenwald explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.
 
-#### Quantitative Investing and Portfolio Management
+### Quantitative Investing and Portfolio Management
 - [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
 In this book, Grinold and Kahn show how economics, econometrics, and operations research can be used to solve practical investment problems and identify profit opportunities.
 
@@ -165,7 +165,7 @@ A comprehensive explanation of analysis and calculation methods to help investor
 - [Quantitative Equity Portfolio Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management) - Ludwig B. Chincarini, Daehwan Kim, 2006 </br>
 The authors address the construction and management of a portfolio using quantitative methods. Among other things, they offer explanations of factor models and the prediction of premiums and exposures.
 
-#### General Stock Trading
+### General Stock Trading
 - [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, 1992 </br>
 In the book, Lynch, a successful fund manager from 1977 to 1990, gives readers insight into his investment methods and tactics.
 
@@ -202,7 +202,7 @@ Jack Schwager interviews some of the most successful stock traders in the United
 - [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion) - Mark Minervini, 2017 </br>
 In this book, Mark Minervini explains readers how to apply his methods step by step to enhance their trading performance and create the confidence they need to outperform.
 
-#### Trend Following
+### Trend Following
 - [Investing with Volume Analysis](https://www.goodreads.com/book/show/12664470-investing-with-volume-analysis) - Buff Dormeier, 2011 </br>
   Dormeier offers insights into using volume metrics to enhance stock trading strategies, providing a framework for interpreting price-volume relationships to predict market trends.
 
@@ -224,7 +224,7 @@ Through a proven technical approach, the book explains how to gauge the likeliho
 - [Trend Trading Set-Ups](https://www.goodreads.com/book/show/19569996-trend-trading-set-ups) - L. A. Little, 2012 </br>
 Building on the neoclassical concept, Little presents traders and investors with a robust methodology to discover promising trade setups and achieve precise timing for trade entry.
 
-#### Price Action Trading
+### Price Action Trading
 - [Price Action Breakdown](https://www.goodreads.com/book/show/29460388-price-action-breakdown) - Laurentiu Damir, 2016 </br>
 This book provides a comprehensive guide to trading pure price action analysis. It covers concepts, ideas and trading methods based on pure price action and can be applied to various financial markets.
 
@@ -240,7 +240,7 @@ Anna Coulling provides an in-depth examination of volume price analysis in stock
 - [Trading Price Action Trends](https://www.goodreads.com/book/show/19169498-trading-price-action-trends) - Al Brooks, 2011 </br>
 Al Brooks' book is intended as a practical guide to profiting from institutional trading trends.  The book breaks down Brooks' trading system into its essential components such as institutional piggybacking or trend trading.
 
-#### Behavioral Finance and Psychological Aspect of Investing
+### Behavioral Finance and Psychological Aspect of Investing
 - [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller, 2000 </br>
 Robert J. Shiller's book addresses the psychological and behavioral factors that influence financial markets. It explores the concept of speculative bubbles and irrational exuberance, in which exuberant investor behavior leads to overvaluation of assets.
 
@@ -251,7 +251,7 @@ Author James Montier looks at the psychological aspects of investing and examine
 James Surowiecki's book addresses the concept that large groups of people collectively have higher intelligence than individual experts. Surowiecki supports his argument with various case studies and anecdotes from different fields.
 
 
-#### Risk and Uncertainty
+### Risk and Uncertainty
 - [Against the Gods](https://www.goodreads.com/book/show/128429.Against_the_Gods) - Peter L. Bernstein, 1996 </br>
 Bernstein takes the reader on a journey through time, showing how societies throughout history have dealt with uncertainty and developed methods for measuring and managing risk. The author shows the profound impact of risk and probability on human decision making and the development of modern finance.
 
@@ -264,7 +264,7 @@ Mallouk's work discusses the most common mistakes investors make and how to avoi
 - [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) - Nassim Nicholas Taleb, 2007 </br>
 Taleb explores the concept of so-called black swans. These are rare and unpredictable events that have massive consequences and are often rationalized retroactively.
 
-#### Contemporary History
+### Contemporary History
 - [Dot.con: How America Lost Its Mind and Money in the Internet Era](https://www.goodreads.com/book/show/1308591.Dot_con) - John Cassidy, 2002 </br>
 Cassidy chronicles the rise and fall of the dot-com bubble with insight and flair. He introduces the key players and events that shaped the Internet era, from visionary entrepreneurs to ruthless investors.
 
