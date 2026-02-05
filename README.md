@@ -268,60 +268,59 @@ Taleb explores the concept of so-called black swans. These are rare and unpredic
 - [Dot.con: How America Lost Its Mind and Money in the Internet Era](https://www.goodreads.com/book/show/1308591.Dot_con) - John Cassidy, 2002 </br>
 Cassidy chronicles the rise and fall of the dot-com bubble with insight and flair. He introduces the key players and events that shaped the Internet era, from visionary entrepreneurs to ruthless investors.
 
-
 ## Most Important Stock Exchanges
 
 The following list outlines major stock exchanges of global relevance.
 Descriptions focus on structure, scope, and market role rather than time-dependent rankings.
 
-* 🇦🇺 **Australian Securities Exchange (ASX)**
+* 🇦🇺 **[Australian Securities Exchange (ASX)](https://www.asx.com.au)**
   Primary securities exchange in Australia. Strong concentration in mining, commodities, and financial services.
 
-* 🇧🇷 **B3 (Brasil, Bolsa, Balcão)**
+* 🇧🇷 **[B3 (Brasil, Bolsa, Balcão)](https://www.b3.com.br)**
   The main exchange in Brazil and Latin America. Operates equities, derivatives, and clearing services.
 
-* 🇮🇳 **Bombay Stock Exchange (BSE)**
+* 🇮🇳 **[Bombay Stock Exchange (BSE)](https://www.bseindia.com)**
   Asia’s oldest stock exchange. Major venue for Indian equities and indices.
 
-* 🇩🇪 **Frankfurter Wertpapierbörse (Börse Frankfurt)**
+* 🇩🇪 **[Frankfurter Wertpapierbörse (Börse Frankfurt)](https://www.boerse-frankfurt.de)**
   Germany’s principal stock exchange, operated by Deutsche Börse.
-  Electronic trading is conducted via **Xetra**.
+  Electronic trading is conducted via **[Xetra](https://www.xetra.com)**.
 
-* 🇭🇰 **Hong Kong Stock Exchange (HKEX)**
+* 🇭🇰 **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk)**
   Key international financial hub connecting Chinese and global capital markets.
 
-* 🇰🇷 **Korea Exchange (KRX)**
+* 🇰🇷 **[Korea Exchange (KRX)](https://global.krx.co.kr)**
   South Korea’s sole securities exchange operator, covering equities, derivatives, and bonds.
 
-* 🇬🇧 **London Stock Exchange (LSE)**
+* 🇬🇧 **[London Stock Exchange (LSE)](https://www.londonstockexchange.com)**
   One of the world’s leading international listing venues, particularly for global and cross-border issuers.
 
-* 🇺🇸 **NASDAQ**
+* 🇺🇸 **[NASDAQ](https://www.nasdaq.com)**
   Electronic exchange with a strong focus on technology and growth-oriented companies.
 
-* 🇮🇳 **National Stock Exchange of India (NSE)**
+* 🇮🇳 **[National Stock Exchange of India (NSE)](https://www.nseindia.com)**
   India’s largest exchange by trading volume, known for its fully electronic infrastructure.
 
-* 🇺🇸 **New York Stock Exchange (NYSE)**
+* 🇺🇸 **[New York Stock Exchange (NYSE)](https://www.nyse.com)**
   Central venue for large-cap and blue-chip companies, operating a hybrid trading model.
 
-* 🇨🇳 **Shanghai Stock Exchange (SSE)**
+* 🇨🇳 **[Shanghai Stock Exchange (SSE)](https://www.sse.com.cn)**
   Major mainland Chinese exchange, focused on large state-owned and industrial enterprises.
 
-* 🇨🇳 **Shenzhen Stock Exchange (SZSE)**
+* 🇨🇳 **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn)**
   Chinese exchange with emphasis on growth, technology, and small- to mid-cap companies.
 
-* 🇸🇬 **Singapore Exchange (SGX)**
+* 🇸🇬 **[Singapore Exchange (SGX)](https://www.sgx.com)**
   Regional financial hub with strengths in derivatives, commodities, and international listings.
 
-* 🇨🇭 **SIX Swiss Exchange**
+* 🇨🇭 **[SIX Swiss Exchange](https://www.six-group.com)**
   Switzerland’s principal exchange, known for stability and strong representation of financial and life-science firms.
 
-* 🇯🇵 **Tokyo Stock Exchange (TSE)**
+* 🇯🇵 **[Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english)**
   Japan’s primary exchange, operated by Japan Exchange Group (JPX).
 
-* 🇨🇦 **Toronto Stock Exchange (TSX)**
+* 🇨🇦 **[Toronto Stock Exchange (TSX)](https://www.tsx.com)**
   Canada’s main equity market, globally relevant for mining and energy companies.
 
-* 🇪🇺 **Euronext**
+* 🇪🇺 **[Euronext](https://www.euronext.com)**
   Pan-European exchange group operating regulated markets in multiple European countries, including France, the Netherlands, Belgium, Ireland, Portugal, Italy, and Norway.
