@@ -59,6 +59,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Zacks Stock Screener](https://www.zacks.com/stock-screener) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 
 ## Charting
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
 - [TradingView](https://www.tradingview.com) - Platform that offers charting tools, trading ideas, and real-time market data for stocks, forex, cryptocurrencies, and other financial instruments.
 - [StockCharts](https://stockcharts.com) - Technical analysis and charting website that provides advanced charting tools, custom indicators, and market analysis for stocks, funds, and indices.
 
