@@ -80,6 +80,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Portfolio Tracker
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
 - [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+– [UltraTrader](https://ultratrader.app/) – Automated trading journal that syncs trades from brokers and exchanges (Binance, Bybit, MT4/MT5, and more), offering analytics on win rate, risk/reward, and strategy performance across Stocks, Forex, and Crypto.
 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
