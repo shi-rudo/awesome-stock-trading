@@ -111,6 +111,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
 - [StockScreening101](https://www.stockscreening101.com) - StockScreening101 is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
 - [Wallstreetmojo](https://www.wallstreetmojo.com) - Learn Investment Banking, Finance Modeling and Excel with more than 4800+ Articles, Self Study Guides, Resources and courses.
+- [KeepRule](https://keeprule.com) - A platform curating 1,300+ investment principles from 26 legendary investors (Buffett, Munger, Graham, Lynch, Dalio, etc.) with 95+ scenario-based decision walkthroughs covering risk management, entry/exit strategies, position sizing, and trading psychology.
 
 ## Books
 
