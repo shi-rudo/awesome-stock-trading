@@ -78,6 +78,7 @@ The curated list of resources for research and learning about stock trading and 
 - [MSCI - Market Insights](https://www.msci.com/research-and-insights/market-insights) - Market commentaries and research reports with a focus on macroeconomic topics.
 
 ## Portfolio Tracker
+- [13F Insight](https://13finsight.com) - Tracks institutional investor 13F filings and hedge fund portfolio movements, allowing users to follow what top investors like Buffett, Ackman, and Soros are buying and selling.
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
 - [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
 
