@@ -109,6 +109,7 @@ The curated list of resources for research and learning about stock trading and 
 
 ## Knowledge
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
+- [KeepRule](https://keeprule.com) - 1,300+ investment principles from 27 legendary investors organized by scenario, with AI-assisted learning and a free investment psychology test.
 - [StockScreening101](https://www.stockscreening101.com) - StockScreening101 is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
 - [Wallstreetmojo](https://www.wallstreetmojo.com) - Learn Investment Banking, Finance Modeling and Excel with more than 4800+ Articles, Self Study Guides, Resources and courses.
 
@@ -241,6 +242,10 @@ Anna Coulling provides an in-depth examination of volume price analysis in stock
 Al Brooks' book is intended as a practical guide to profiting from institutional trading trends.  The book breaks down Brooks' trading system into its essential components such as institutional piggybacking or trend trading.
 
 ### Behavioral Finance and Psychological Aspect of Investing
+
+- [Buffett Letters Index](https://github.com/henu-wang/buffett-letters-index) - Comprehensive index of Warren Buffett's annual letters by topic, making it easy to find his views on specific investing subjects.
+- [Investment Psychology Checklist](https://github.com/henu-wang/investment-psychology-checklist) - Pre-investment psychological checklist based on Charlie Munger's cognitive biases, helping investors avoid common mental traps.
+
 - [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller, 2000 </br>
 Robert J. Shiller's book addresses the psychological and behavioral factors that influence financial markets. It explores the concept of speculative bubbles and irrational exuberance, in which exuberant investor behavior leads to overvaluation of assets.
 
