@@ -98,6 +98,7 @@ The curated list of resources for research and learning about stock trading and 
 - [StockTwits Top 10](https://stocktwits.com/rankings/trending) - StockTwits' list of the top 10 trending stocks.
 
 ## Stock APIs
+- [Adanos Sentiment API](https://api.adanos.org/docs/) - Finance Sentiment API unifies Reddit, X, financial news, Polymarket, and crypto community data in one API for sentiment analysis and market research.
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
