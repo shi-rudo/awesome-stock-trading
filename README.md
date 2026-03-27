@@ -84,6 +84,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
 - [QuantConnect](https://www.quantconnect.com) - Algorithmic trading platform that provides backtesting, live trading, and research tools for stocks, forex, and cryptocurrencies.
+- [TradeSight](https://github.com/rmbell09-lang/tradesight) - Open-source AI-powered paper trading platform with 15+ technical indicators, strategy optimization tournaments, and performance backtesting analytics.
 
 ## Stock Picks
 - [Alpha Picks](https://seekingalpha.com/alpha-picks/) - Alpha Picks gives you two top stock picks each month, sifted from Seeking Alpha analysis of thousands of stocks.
