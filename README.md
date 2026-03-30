@@ -7,7 +7,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Contents
 - [Stock Research](#stock-research)
 - [Market Analysis](#market-analysis)
-- [Stock Screener](#stock-screener)h
+- [Stock Screener](#stock-screener)
 - [Charting](#charting)
 - [News](#news)
 - [Commentaries](#commentaries)
