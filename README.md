@@ -106,6 +106,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
 - [Massive](https://massive.com/) - Massive offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
+- [Chart Library](https://chartlibrary.io) - Historical chart pattern search engine API. Find the most similar historical patterns from 24M+ pre-computed embeddings across 15K+ symbols and 10 years of data. Returns forward returns (1/3/5/10 day), regime analysis, and pattern detection.
 
 ## Knowledge
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
