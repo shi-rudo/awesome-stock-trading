@@ -101,6 +101,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
+- [Helium](https://heliumtrades.com/mcp-page/) - Live stock, ETF, and crypto data with AI-generated bull/bear cases and price forecasts, proprietary ML options pricing with probability ITM and fair value calculations, and news bias scoring across 5,000+ sources. Available as an [MCP server](https://github.com/connerlambden/helium-mcp) for AI assistants. Free tier with 50 queries, no signup required.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Morningstar](https://developer.morningstar.com) - Provides data, research, and reports.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
