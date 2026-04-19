@@ -106,6 +106,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
 - [Massive](https://massive.com/) - Massive offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Free remote MCP server giving AI assistants (Claude, Cursor) per-symbol ML option fair-value estimates with probability-ITM, daily-ranked long-vol/short-vol strategy lists, and structured news bias analysis.
 
 ## Knowledge
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
