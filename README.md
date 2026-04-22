@@ -27,7 +27,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Alpha Spread](https://alphaspread.com) - Provides data and tools for quantitative research and stock valuation.
 - [Barchart](https://www.barchart.com) - Offers market data, analysis, and tools for commodity, stock, and forex traders.
 - [Capitol Trade](https://www.capitoltrades.com) - Keeping Tabs on Politicians' Trades (US only).
-- - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tracker of U.S. congressional stock trades with cluster detection, committee alignment scoring, and sector-level signals. Free tier, no login required (US only).
+- [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tracker of U.S. congressional stock trades with cluster detection, committee alignment scoring, and sector-level signals. Free tier, no login required (US only).
 - [Chartmill](https://chartmill.com) - ChartMill is a stock screening and analysis platform.
 - [Danelfin](https://danelfin.com) - Provides AI-Powered Stock Research & Picking Tools.
 - [Finbox](https://finbox.io/) - Offers tools for financial analysis, valuation, and screening of stocks.
