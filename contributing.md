@@ -19,7 +19,7 @@ Marginal fit — fresh launches, founder-submitted own tools without external va
 
 Before contributing, please ensure you follow these guidelines:
 
-1. **Scope:** We welcome contributions that directly relate to stock trading. This includes resources for news, analysis, trading platforms, educational materials, books, blogs, podcasts, and more.
+1. **Scope:** Contributions must fit one of the existing README sections: Stock Research, Market Analysis, Stock Screener, Charting, News, Commentaries, Portfolio Tracker, Strategy Backtesting, Stock Picks, Stock Collections, Stock APIs, Knowledge, Books, or Most Important Stock Exchanges. If you are unsure where a resource belongs, open an issue first.
 
 2. **Quality:** Resources should have an established reputation in the field. Books should be recognized references; websites, tools, and APIs should have a documented user base and at least some independent coverage. Technical resources are typically expected to be at least 3 years old.
 
@@ -38,15 +38,15 @@ To contribute to this list, follow the steps below:
 
 1. **Fork the Repository:** If you're not sure how to do this, GitHub has a great guide that you can follow: [Fork a Repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
-2. **Update your Fork:** Make your changes to your forked repository. Ensure your additions meet the guidelines mentioned above. Please make sure to place your contribution in the appropriate category, and if a category doesn't exist, feel free to create it.
+2. **Update your Fork:** Add your entry to the appropriate existing README section, keeping the alphabetical order. Use the format: `- [Name](url) - Short description ending with a period.` Do not create new sections; if no existing section fits, open an issue to discuss it first.
 
-3. **Create a Pull Request:** Once you're happy with your changes, create a new pull request. If you need help with creating a pull request, here is another great guide by GitHub: [Creating a pull request from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+3. **Create a Pull Request:** Once you're happy with your changes, create a new pull request. The PR template walks you through the submission checklist and the hard gates — please fill it out completely. GitHub guide: [Creating a pull request from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 
 4. **Review and Merge:** Your pull request will be reviewed by one of the maintainers. They might suggest changes or improvements. Once your contribution is approved, it will be merged into the main repository.
 
 ## Community
 
-Remember that this is a community effort. Be respectful and considerate of others' inputs and viewpoints. All contributions are valued, and together we can create the best curated list of stock trading resources.
+This is a community effort. Be respectful and considerate of others' viewpoints. Thoughtful contributions that meet the guidelines above help keep the list trusted and useful.
 
 Thank you for your contributions!
 
