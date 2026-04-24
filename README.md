@@ -82,6 +82,8 @@ The curated list of resources for research and learning about stock trading and 
 - [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
 
 ## Strategy Backtesting
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
 - [QuantConnect](https://www.quantconnect.com) - Algorithmic trading platform that provides backtesting, live trading, and research tools for stocks, forex, and cryptocurrencies.
 
