@@ -37,7 +37,6 @@ The curated list of resources for research and learning about stock trading and 
 - [Simply Wall St](https://simplywall.st/) - Simply Wall St. has a unique pictorial approach to quickly and effectively cut through the massive amounts of data to narrow to a select few candidates.
 - [Tip Ranks](https://www.tipranks.com) - Provides ratings and analysis of stocks and financial experts based on their historical performance.
 - [Wall Street Zen](https://www.wallstreetzen.com) - Offers tools for financial analysis, screening, and backtesting of investment strategies.
-- [Wallmine](https://wallmine.com) - Provides stock analysis, screening, and news for individual investors.
 - [Zacks](https://www.zacks.com) - Provides research, analysis, and ratings for stocks and funds based on quantitative models and fundamental data.
 
 ## Market Analysis
@@ -77,8 +76,9 @@ The curated list of resources for research and learning about stock trading and 
 - [MSCI - Market Insights](https://www.msci.com/research-and-insights/market-insights) - Market commentaries and research reports with a focus on macroeconomic topics.
 
 ## Portfolio Tracker
+- [Ghostfolio](https://ghostfol.io) - Open-source portfolio tracker for stocks, ETFs, and crypto with multi-account aggregation and performance analysis.
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
-- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research (Canada-focused).
 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
