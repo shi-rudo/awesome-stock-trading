@@ -78,7 +78,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Portfolio Tracker
 - [Ghostfolio](https://ghostfol.io) - Open-source portfolio tracker for stocks, ETFs, and crypto with multi-account aggregation and performance analysis.
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
-- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research (Canada-focused).
 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
