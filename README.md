@@ -51,8 +51,6 @@ The curated list of resources for research and learning about stock trading and 
 - [Market Beat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Simply Wall St Stock Screener](https://simplywall.st/features/stock-screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Tip Ranks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
-- [Trading Terminal Scanner](https://scanner.tradingterminal.com) - US market stock screener that allows filtering stocks by market cap, sector, industry, and more.
-- [Wallmine Free Stock Screener](https://wallmine.com/screener) - Free stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Wallstreet Zen Stock Screener](https://www.wallstreetzen.com/stock-screener) - Free US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Zacks Stock Screener](https://www.zacks.com/stock-screener) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 
@@ -81,7 +79,6 @@ The curated list of resources for research and learning about stock trading and 
 - [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research (Canada-focused).
 
 ## Strategy Backtesting
-- [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
 - [QuantConnect](https://www.quantconnect.com) - Algorithmic trading platform that provides backtesting, live trading, and research tools for stocks, forex, and cryptocurrencies.
 
 ## Stock Picks
@@ -102,9 +99,9 @@ The curated list of resources for research and learning about stock trading and 
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [Massive](https://massive.com/) - Tick-level US equities, options, indices, forex, and crypto data via REST, WebSockets, and flat files (formerly Polygon.io, rebranded 2025).
 - [Morningstar](https://developer.morningstar.com) - Provides data, research, and reports.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
-- [Massive](https://massive.com/) - Massive offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
 
 ## Knowledge
