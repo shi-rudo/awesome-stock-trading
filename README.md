@@ -35,6 +35,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Morningstar](https://www.morningstar.com) - Provides investment research, ratings, and tools for stocks, mutual funds, and ETFs.
 - [Seeking Alpha](https://seekingalpha.com) - Offers market news and analysis, portfolio management tools, and investment ideas from contributors.
 - [Simply Wall St](https://simplywall.st/) - Simply Wall St. has a unique pictorial approach to quickly and effectively cut through the massive amounts of data to narrow to a select few candidates.
+- [StockVektor](https://stockvektor.com) - Free quality-score research tool for ~1,300 US stocks, computing Piotroski F-Score, Altman Z-Score, Beneish M-Score, ROIC, and EV/EBIT from SEC EDGAR data with sector-relative scoring.
 - [Tip Ranks](https://www.tipranks.com) - Provides ratings and analysis of stocks and financial experts based on their historical performance.
 - [Wall Street Zen](https://www.wallstreetzen.com) - Offers tools for financial analysis, screening, and backtesting of investment strategies.
 - [Zacks](https://www.zacks.com) - Provides research, analysis, and ratings for stocks and funds based on quantitative models and fundamental data.
