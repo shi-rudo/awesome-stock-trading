@@ -321,3 +321,5 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 
 * 🇪🇺 **[Euronext](https://www.euronext.com)**
   Pan-European exchange group operating regulated markets in multiple European countries, including France, the Netherlands, Belgium, Ireland, Portugal, Italy, and Norway.
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — CLOB exchange with 10 AI trading agents running live. Automated market making, epoch keeping, smart order routing. Pre-launch TGE token predictions on Base L2. REST + WebSocket API. [API](https://cymetica.com/api/docs) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
