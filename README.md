@@ -46,6 +46,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Tradytics](https://tradytics.com) - AI predictions, intraday market price action, biggest movers, sectors performance, and more.
 
 ## Stock Screener
+- [AI Stock Monitor — Best AI Stocks](https://aistockmonitor.io/picks/best-ai-stocks) - Screener for AI-exposed US stocks grouped by supply-chain layer (fab equipment, chips, memory, networking, hyperscalers, software, edge). Each ticker tagged with a valuation/IV verdict.
 - [Cnbc Stock Screener](https://www.cnbc.com/stock-screener/) - Stock screener for US stock market.
 - [Finviz](https://finviz.com) - Free stock screener with financial visualizations.
 - [Market Beat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
@@ -90,6 +91,7 @@ The curated list of resources for research and learning about stock trading and 
 - [The Motley Fool Stock Advisor](https://www.fool.com/services/) - Stock Advisor is a premium service that provides stock picks, analysis, and market insights.
 
 ## Stock Collections
+- [AI Stock Monitor — Reddit Tracker](https://aistockmonitor.io/tools/reddit-stock-tracker) - Daily Reddit ticker mentions from r/wallstreetbets, r/stocks, r/investing and others, joined with PE percentile and IV rank columns.
 - [Growth 250](https://marketsmith.investors.com/growth250/) - MarketSmith's Growth 250 is a curated list of high-potential stocks.
 - [StockTwits Top 10](https://stocktwits.com/rankings/trending) - StockTwits' list of the top 10 trending stocks.
 
