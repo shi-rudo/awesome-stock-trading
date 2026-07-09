@@ -105,6 +105,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
 
 ## Knowledge
+- [SIE Exam Data](https://github.com/roykim26/sie-exam-data) - Comprehensive dataset for the FINRA SIE examination with topic breakdown, pass rates, and career data
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
 - [StockScreening101](https://www.stockscreening101.com) - StockScreening101 is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
 - [Wallstreetmojo](https://www.wallstreetmojo.com) - Learn Investment Banking, Finance Modeling and Excel with more than 4800+ Articles, Self Study Guides, Resources and courses.
