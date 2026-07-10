@@ -44,6 +44,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed) - Provides a market sentiment indicator for investors. It analyzes seven different indicators, including market volatility, investor sentiment, and safe-haven demand, to generate a score ranging from 0-100 that reflects whether the market is in a state of fear or greed.
 - [Trading Terminal](https://www.tradingterminal.com) - Overview of the most important metrics for the US Market.
 - [Tradytics](https://tradytics.com) - AI predictions, intraday market price action, biggest movers, sectors performance, and more.
+- [BDE Score™](https://github.com/hbhqq9/bde-score) - AI-Powered Multi-Market Stock Analysis with transparent multi-factor scoring for 73 stocks across US, HK, and A-share markets. EU AI Act Art.50 compliant.
 
 ## Stock Screener
 - [Cnbc Stock Screener](https://www.cnbc.com/stock-screener/) - Stock screener for US stock market.
