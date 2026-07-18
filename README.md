@@ -72,6 +72,7 @@ The curated list of resources for research and learning about stock trading and 
 ## Commentaries
 - [J.P. Morgan - Market Updates](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/) - Weekly commentaries to get market insights from J.P. Morgan.
 - [MSCI - Market Insights](https://www.msci.com/research-and-insights/market-insights) - Market commentaries and research reports with a focus on macroeconomic topics.
+- [Fundamental Analysis](https://arapov.trade/en/freestudying/fundamental-analysis) - Free guide to economic factors that move markets.
 
 ## Portfolio Tracker
 - [Ghostfolio](https://ghostfol.io) - Open-source portfolio tracker for stocks, ETFs, and crypto with multi-account aggregation and performance analysis.
