@@ -29,6 +29,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Capitol Trade](https://www.capitoltrades.com) - Keeping Tabs on Politicians' Trades (US only).
 - [Chartmill](https://chartmill.com) - ChartMill is a stock screening and analysis platform.
 - [Danelfin](https://danelfin.com) - Provides AI-Powered Stock Research & Picking Tools.
+- [FN2](https://fn2.ai) - Provides an AI market analyst with personalized daily briefings, deep stock research, and scheduled monitoring agents.
 - [Finbox](https://finbox.io/) - Offers tools for financial analysis, valuation, and screening of stocks.
 - [Market Beat](https://www.marketbeat.com) - Provides stock research, ratings, and news for individual investors.
 - [Market Screener](https://www.marketscreener.com) - Offers stock market quotes, news, analysis, and screening tools.
