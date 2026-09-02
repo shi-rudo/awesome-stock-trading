@@ -30,6 +30,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Chartmill](https://chartmill.com) - ChartMill is a stock screening and analysis platform.
 - [Danelfin](https://danelfin.com) - Provides AI-Powered Stock Research & Picking Tools.
 - [Finbox](https://finbox.io/) - Offers tools for financial analysis, valuation, and screening of stocks.
+- [Insider Alert Bot](https://jaredmansu.github.io/insider-alerts/) - Pushes SEC Form 4 insider trades to Discord as they are filed, filtered to open-market buys over $100k, multi-insider cluster buys, first-time insider buyers, and CEO/CFO sales over $1M. NYSE and NASDAQ only. Free channel carries every alert on a 45-minute delay.
 - [Market Beat](https://www.marketbeat.com) - Provides stock research, ratings, and news for individual investors.
 - [Market Screener](https://www.marketscreener.com) - Offers stock market quotes, news, analysis, and screening tools.
 - [Morningstar](https://www.morningstar.com) - Provides investment research, ratings, and tools for stocks, mutual funds, and ETFs.
