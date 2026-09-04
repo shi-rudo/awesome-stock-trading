@@ -36,6 +36,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Seeking Alpha](https://seekingalpha.com) - Offers market news and analysis, portfolio management tools, and investment ideas from contributors.
 - [Simply Wall St](https://simplywall.st/) - Simply Wall St. has a unique pictorial approach to quickly and effectively cut through the massive amounts of data to narrow to a select few candidates.
 - [Tip Ranks](https://www.tipranks.com) - Provides ratings and analysis of stocks and financial experts based on their historical performance.
+- [Tradolux](https://tradolux.com) - AI trading terminal that analyzes any ticker across five agents (chart, sentiment, fundamental, risk, macro) and returns a probabilistic assessment with a defined entry, target, and stop per signal.
 - [Wall Street Zen](https://www.wallstreetzen.com) - Offers tools for financial analysis, screening, and backtesting of investment strategies.
 - [Zacks](https://www.zacks.com) - Provides research, analysis, and ratings for stocks and funds based on quantitative models and fundamental data.
 
