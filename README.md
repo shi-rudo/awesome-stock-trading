@@ -30,9 +30,11 @@ The curated list of resources for research and learning about stock trading and 
 - [Chartmill](https://chartmill.com) - ChartMill is a stock screening and analysis platform.
 - [Danelfin](https://danelfin.com) - Provides AI-powered stock research and picking tools.
 - [Finbox](https://finbox.com) - Offers tools for financial analysis, valuation, and screening of stocks.
+- [Koyfin](https://www.koyfin.com) - Market data and analytics platform with customizable dashboards, charts, fundamentals, and screening across stocks, ETFs, and macro data.
 - [MarketBeat](https://www.marketbeat.com) - Provides stock research, ratings, and news for individual investors.
 - [MarketScreener](https://www.marketscreener.com) - Offers stock market quotes, news, analysis, and screening tools.
 - [Morningstar](https://www.morningstar.com) - Provides investment research, ratings, and tools for stocks, mutual funds, and ETFs.
+- [SEC EDGAR Full-Text Search](https://www.sec.gov/edgar/search/) - Official SEC search for company filings such as 10-K, 10-Q, 8-K, and proxy statements, with full-text search of filings since 2001.
 - [Seeking Alpha](https://seekingalpha.com) - Offers market news and analysis, portfolio management tools, and investment ideas from contributors.
 - [Simply Wall St](https://simplywall.st/) - Simply Wall St. has a unique pictorial approach to quickly and effectively cut through the massive amounts of data to narrow to a select few candidates.
 - [TipRanks](https://www.tipranks.com) - Provides ratings and analysis of stocks and financial experts based on their historical performance.
@@ -40,8 +42,11 @@ The curated list of resources for research and learning about stock trading and 
 - [Zacks](https://www.zacks.com) - Provides research, analysis, and ratings for stocks and funds based on quantitative models and fundamental data.
 
 ## Market Analysis
+- [AAII Sentiment Survey](https://www.aaii.com/sentimentsurvey) - Weekly survey of individual investors' bullish, neutral, and bearish outlook on the stock market for the next six months, published since 1987.
+- [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) - Shows market-implied probabilities of Federal Reserve rate changes at upcoming FOMC meetings, based on 30-Day Fed Funds futures prices.
 - [CNN Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed) - Market sentiment indicator that combines seven measures, including market momentum, stock price breadth, put and call options, market volatility, and safe-haven demand, into a score from 0 to 100 that shows whether the market is driven by fear or greed.
 - [CompaniesMarketCap](https://www.companiesmarketcap.com) - Provides a list of companies and their market capitalizations, allowing users to easily track the valuations of various publicly traded companies. It also includes useful data such as industry classifications and stock exchange listings.
+- [FRED](https://fred.stlouisfed.org) - Federal Reserve Bank of St. Louis database of US and international economic time series, such as interest rates, inflation, employment, and money supply, with charting and downloads.
 - [Trading Terminal](https://www.tradingterminal.com) - Market dashboard for US stocks with key metrics, news, an economic calendar, a heatmap, insider trades, and scanners.
 
 ## Stock Screener
@@ -49,6 +54,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Finviz](https://finviz.com) - Free stock screener with financial visualizations.
 - [MarketBeat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Simply Wall St Stock Screener](https://simplywall.st/features/stock-screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
+- [Stockopedia](https://www.stockopedia.com) - Stock screener and research platform for UK, European, and international markets that scores every stock from 0 to 100 on quality, value, and momentum (StockRanks).
 - [TipRanks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [WallStreetZen Stock Screener](https://www.wallstreetzen.com/stock-screener) - Free US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Zacks Stock Screener](https://www.zacks.com/screening/stock-screener) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
@@ -61,24 +67,31 @@ The curated list of resources for research and learning about stock trading and 
 - [Barron's](https://www.barrons.com) - Financial magazine that provides news, analysis, and insights on the stock market, investing, and personal finance.
 - [Benzinga](https://www.benzinga.com) - Financial news and data provider that delivers real-time market updates, stock analysis, and investment ideas.
 - [Bloomberg](https://www.bloomberg.com) - Financial news and information company that covers business, markets, politics, and technology.
+- [Financial Times](https://www.ft.com) - International business newspaper covering global markets, companies, and economic policy.
 - [Investing.com](https://www.investing.com) - Online platform that offers financial news, real-time quotes, and analysis on stocks, currencies, commodities, and other investments.
 - [MarketWatch](https://www.marketwatch.com) - Financial news website that provides business news, analysis, and stock market data.
+- [Reuters](https://www.reuters.com/markets/) - Global news agency with fast, neutral coverage of markets, companies, and economies.
 - [The Motley Fool](https://www.fool.com) - Investment website that provides stock market analysis, investing ideas, and personal finance advice.
 - [TheStreet](https://www.thestreet.com) - Financial news and investing website that offers stock market analysis, investment strategies, and personal finance advice.
 - [The Wall Street Journal](https://www.wsj.com) - A business-focused newspaper that covers global news, markets, and economics.
 - [Yahoo Finance](https://finance.yahoo.com) - Financial news and data website that provides real-time stock quotes, financial news, and investment analysis.
 
 ## Commentaries
+- [GMO - Research Library](https://www.gmo.com/americas/research-library/) - Quarterly letters, 7-year asset class forecasts, and valuation-driven research from GMO.
 - [J.P. Morgan - Market Updates](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/) - Weekly commentaries to get market insights from J.P. Morgan.
 - [MSCI - Markets in Motion](https://www.msci.com/indexes/markets-in-motion) - Daily and monthly market reports plus research-based commentary on equity, multi-asset, and macroeconomic trends.
+- [Oaktree - Memos from Howard Marks](https://www.oaktreecapital.com/insights/memos) - Free archive of Howard Marks' client memos since 1990 on market cycles, risk, and investor psychology.
 
 ## Portfolio Tracker
 - [Ghostfolio](https://ghostfol.io) - Open-source portfolio tracker for stocks, ETFs, and crypto with multi-account aggregation and performance analysis.
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
+- [Sharesight](https://www.sharesight.com) - Portfolio tracker for stocks, ETFs, and funds across global markets that reports performance including dividends, currency effects, and tax.
 - [Wealthica](https://www.wealthica.com) - Aggregates bank, brokerage, and crypto accounts for portfolio, net-worth, and budget tracking (Canada and US).
 
 ## Strategy Backtesting
 - [QuantConnect](https://www.quantconnect.com) - Algorithmic trading platform that provides backtesting, live trading, and research tools for stocks, forex, and cryptocurrencies.
+- [TrendSpider](https://trendspider.com) - Charting and strategy-testing platform offering no-code backtesting of technical trading strategies on stocks and other markets.
+- [Wealth-Lab](https://www.wealth-lab.com) - Strategy development and portfolio backtesting platform for stocks and futures, supporting no-code building blocks and C# strategies.
 
 ## Stock Picks
 - [Alpha Picks](https://seekingalpha.com/alpha-picks/) - Alpha Picks gives you two top stock picks each month, sifted from Seeking Alpha analysis of thousands of stocks.
@@ -96,15 +109,19 @@ The curated list of resources for research and learning about stock trading and 
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [EODHD](https://eodhd.com) - EODHD offers APIs for real-time and historical stock data, fundamentals, forex, and cryptocurrency data.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
+- [FRED API](https://fred.stlouisfed.org/docs/api/fred/) - Free API from the Federal Reserve Bank of St. Louis for more than 800,000 US and international economic time series such as interest rates, inflation, and employment.
+- [Interactive Brokers API](https://www.interactivebrokers.com/en/trading/ib-api.php) - Trading and market data APIs (TWS API, Web API, FIX) for programmatic order execution and real-time and historical data across global stocks, options, futures, and forex.
 - [LSEG Data Library](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python) - Python library for LSEG Workspace and Data Platform data, successor to the Eikon Data API.
 - [Marketstack](https://marketstack.com) - Stock market data API by APILayer with end-of-day, intraday, and real-time prices, indices, and exchange data.
 - [Massive](https://massive.com/) - Tick-level US equities, options, indices, forex, and crypto data via REST, WebSockets, and flat files (formerly Polygon.io, rebranded 2025).
 - [Morningstar Developer](https://developer.morningstar.com) - APIs for Morningstar investment data, research, and ratings.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Financial, economic, and alternative datasets from Nasdaq (formerly Quandl).
+- [SEC EDGAR APIs](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) - Free official JSON APIs from the U.S. SEC for company filing histories and XBRL financial statement data, no API key required.
 
 ## Knowledge
 - [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) - Warren Buffett's annual letters to Berkshire Hathaway shareholders, freely available on the company website, covering investment strategy, capital allocation, and corporate culture.
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
+- [Investor.gov](https://www.investor.gov) - Official investor education site of the U.S. Securities and Exchange Commission covering investing basics, fees, and fraud prevention.
 - [WallStreetMojo](https://www.wallstreetmojo.com) - Free finance tutorials with more than 10,000 articles on investment banking, financial modeling, valuation, and Excel.
 
 ## Books
@@ -158,6 +175,9 @@ A comprehensive explanation of analysis and calculation methods to help investor
 The authors address the construction and management of a portfolio using quantitative methods. Among other things, they offer explanations of factor models and the prediction of premiums and exposures.
 
 ### General Stock Trading
+- [A Random Walk Down Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street) - Burton G. Malkiel, 1973 </br>
+Malkiel argues that stock prices largely reflect available information and that most investors are better served by low-cost index funds than by stock picking or market timing. The book is a standard reference for the efficient market hypothesis and passive investing.
+
 - [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, John Rothchild, 1993 </br>
 In the book, Lynch, a successful fund manager from 1977 to 1990, gives readers insight into his investment methods and tactics.
 
@@ -169,6 +189,9 @@ By interviewing successful investors such as Bruce Kovner, Richard Dennis, Paul 
 
 - [One Up On Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street) - Peter Lynch, John Rothchild, 1989 </br>
 Peter Lynch, who managed Fidelity Investments' successful Magellan Fund from 1977 to 1990, gives investors an insight into his investment methods. Using simple examples and some practices, he explains his process of stock selection.
+
+- [Reminiscences of a Stock Operator](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator) - Edwin Lefèvre, 1923 </br>
+A thinly fictionalized account of speculator Jesse Livermore's career, describing how he read the tape, followed trends, and managed risk. Generations of traders regard it as the classic text on speculation and trader psychology.
 
 - [Stocks for the Long Run](https://www.goodreads.com/book/show/965633.Stocks_for_the_Long_Run_) - Jeremy Siegel, 1994 </br>
 The book by Siegel, a finance professor, addresses how to build a balanced portfolio and explains how investors can avoid typical mistakes.
@@ -214,6 +237,9 @@ Building on the neoclassical concept, Little presents traders and investors with
 - [Pring on Price Patterns](https://www.goodreads.com/book/show/19138622-pring-on-price-patterns) - Martin J. Pring, 2004 </br>
 Martin J. Pring's book provides a comprehensive examination of the most commonly used price patterns and offers insights into their effectiveness and logic. The book covers a range of patterns, including one- and two-bar patterns, outside bars, reversals, pennants, and more.
 
+- [Technical Analysis of the Financial Markets](https://www.goodreads.com/book/show/212102.Technical_Analysis_of_the_Financial_Markets) - John J. Murphy, 1999 </br>
+Murphy's standard reference covers chart construction, trends, price patterns, moving averages, oscillators, and intermarket analysis. It is widely used as a core text for learning technical analysis.
+
 - [Trading Price Action Trends](https://www.goodreads.com/book/show/19169498-trading-price-action-trends) - Al Brooks, 2011 </br>
 Al Brooks' book is intended as a practical guide to profiting from institutional trading trends. The book breaks down Brooks' trading system into its essential components such as institutional piggybacking or trend trading.
 
@@ -226,6 +252,9 @@ Author James Montier looks at the psychological aspects of investing and examine
 
 - [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki, 2004 </br>
 James Surowiecki's book addresses the concept that large groups of people collectively have higher intelligence than individual experts. Surowiecki supports his argument with various case studies and anecdotes from different fields.
+
+- [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman, 2011 </br>
+Nobel laureate Kahneman describes the two systems of thinking behind human judgment and the biases they produce, such as overconfidence, anchoring, and loss aversion. It is a foundational text for behavioral finance.
 
 ### Risk and Uncertainty
 - [Against the Gods](https://www.goodreads.com/book/show/128429.Against_the_Gods) - Peter L. Bernstein, 1996 </br>
@@ -243,6 +272,12 @@ Taleb explores the concept of so-called black swans. These are rare and unpredic
 ### Contemporary History
 - [Dot.con: How America Lost Its Mind and Money in the Internet Era](https://www.goodreads.com/book/show/1308591.Dot_con) - John Cassidy, 2002 </br>
 Cassidy chronicles the rise and fall of the dot-com bubble with insight and flair. He introduces the key players and events that shaped the Internet era, from visionary entrepreneurs to ruthless investors.
+
+- [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short) - Michael Lewis, 2010 </br>
+Lewis follows the small group of investors who recognized the US housing bubble and bet against subprime mortgage bonds before the 2008 financial crisis. The book shows how the crisis built up inside the financial system.
+
+- [When Genius Failed](https://en.wikipedia.org/wiki/When_Genius_Failed) - Roger Lowenstein, 2000 </br>
+Lowenstein tells the story of Long-Term Capital Management, the hedge fund whose highly leveraged bets collapsed in 1998 and forced a Federal Reserve-organized rescue. It is a classic case study in leverage, model risk, and liquidity.
 
 ## Most Important Stock Exchanges
 
@@ -283,6 +318,9 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇺🇸 **[New York Stock Exchange (NYSE)](https://www.nyse.com)**
   Central venue for large-cap and blue-chip companies, operating a hybrid trading model.
 
+* 🇸🇦 **[Saudi Exchange (Tadawul)](https://www.saudiexchange.sa)**
+  The main equity market of Saudi Arabia and the Gulf region, operated by Saudi Tadawul Group. Strong weighting in energy, petrochemicals, and banking.
+
 * 🇨🇳 **[Shanghai Stock Exchange (SSE)](https://english.sse.com.cn/)**
   Major mainland Chinese exchange, focused on large state-owned and industrial enterprises.
 
@@ -294,6 +332,9 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 
 * 🇨🇭 **[SIX Swiss Exchange](https://www.six-group.com/en/products-services/the-swiss-stock-exchange.html)**
   Switzerland’s principal exchange, known for stability and strong representation of financial and life-science firms.
+
+* 🇹🇼 **[Taiwan Stock Exchange (TWSE)](https://www.twse.com.tw/en/)**
+  Taiwan's principal securities exchange. Strong concentration in semiconductors and the electronics supply chain.
 
 * 🇯🇵 **[Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english)**
   Japan’s primary exchange, operated by Japan Exchange Group (JPX).
