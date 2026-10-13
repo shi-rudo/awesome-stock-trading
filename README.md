@@ -103,6 +103,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Nasdaq Data Link](https://data.nasdaq.com) - Financial, economic, and alternative datasets from Nasdaq (formerly Quandl).
 
 ## Knowledge
+- [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) - Warren Buffett's annual letters to Berkshire Hathaway shareholders, freely available on the company website, covering investment strategy, capital allocation, and corporate culture.
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
 - [WallStreetMojo](https://www.wallstreetmojo.com) - Free finance tutorials with more than 10,000 articles on investment banking, financial modeling, valuation, and Excel.
 
@@ -110,19 +111,16 @@ The curated list of resources for research and learning about stock trading and 
 
 ### Value Investing and Fundamental Analysis
 
-- [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016 </br>
-For nearly six decades, Warren Buffett has written an annual letter to his shareholders. The letters, written between 1965 and 2014, reveal the investor's thoughts on investment strategy, share buybacks, corporate culture and much more.
+- [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25574) - Philip A. Fisher, 1958 </br>
+This book is considered a classic of growth investing. Fisher, who taught investment courses at Stanford Graduate School of Business, explains his basic views and his approach to selecting stocks.
 
-- [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25586616-common-stocks-and-uncommon-profits-and-other-writings-paperback-jan-0) - Philip A. Fisher, 1957 </br>
-This book is considered a classic and is used as part of several investment courses, such as Stanford Graduate School of Business. In the book, Fisher explains his basic views and approach to his investment strategies.
-
-- [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/21841022-damodaran-on-valuation) - Aswath Damodaran, 1994 </br>
-Damodaran explains aspect of valuation, from the basics of estimating cash flows and discount rates to the principles for using multiples.
+- [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/1422813) - Aswath Damodaran, 1994 </br>
+Damodaran explains aspects of valuation, from the basics of estimating cash flows and discount rates to the principles for using multiples.
 
 - [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth Klarman, 1991 </br>
-Margin of Safety explains the key fundamentals and practices of value investing. He outlines what value investing looks like and where investors might find attractive opportunities.
+Margin of Safety explains the key fundamentals and practices of value investing. Klarman outlines what value investing looks like and where investors might find attractive opportunities.
 
-- [Security Analysis](https://en.wikipedia.org/wiki/Security_Analysis_(book)) - Benjamin Graham, 1934 </br> 
+- [Security Analysis](https://en.wikipedia.org/wiki/Security_Analysis_(book)) - Benjamin Graham, David L. Dodd, 1934 </br>
 This book laid the intellectual foundation for what would later be called value investing. The first edition was published in 1934, shortly after the Wall Street crash and start of the Great Depression.
 
 - [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - George Soros, 1987 </br>
@@ -132,125 +130,109 @@ This book offers insight into the decision-making process of one of the most suc
 Written by Mohnish Pabrai, an investor of Indian origin, the book explains his value investing approach using the Dhandho capital allocation framework.
 
 - [The Intelligent Investor](https://en.wikipedia.org/wiki/The_Intelligent_Investor) - Benjamin Graham, 1949 </br>
-In this book, Grahame explains his investment principles and views regarding an investor's mindset. He shows how investors analyze the actual performance of companies and advises to disregard the changing moods of the market.
+In this book, Graham explains his investment principles and views regarding an investor's mindset. He shows how investors analyze the actual performance of companies and advises to disregard the changing moods of the market.
 
 - [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne, 2006 </br>
-Brown explains the basic approaches of the value investing philosophy, but without making any big promises about market success. He provides guidance on the use of simple metrics such as the price-earnings ratio.
+Browne explains the basic approaches of the value investing philosophy, but without making any big promises about market success. He provides guidance on the use of simple metrics such as the price-earnings ratio.
 
-- [The Most Important Thing](https://www.goodreads.com/book/show/41211699-the-most-important-thing) - Howard Marks, 2011 </br>
+- [The Most Important Thing](https://www.goodreads.com/book/show/10454418) - Howard Marks, 2011 </br>
 In this book, Howard Marks summarizes investment insights from his client memos and explains his investment philosophy.
 
-- [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari, 2011 </br>
+- [The Thoughtful Investor](https://www.goodreads.com/book/show/28387868) - Basant Maheshwari, 2014 </br>
 Maheshwari, a renowned Indian investor, explains in his book topics of financial analysis, the analysis of individual sectors and the behavioral aspect of investing.
 
-- [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way) - Robert G. Hagstrom, 2007 </br>
+- [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way) - Robert G. Hagstrom, 1994 </br>
 The book describes the business and investment principles of value investing according to Warren Buffett.
 
-- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004 </br>
+- [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, Judd Kahn, Paul D. Sonkin, Michael van Biema, 2001 </br>
 Greenwald explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.
 
 ### Quantitative Investing and Portfolio Management
-- [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
+- [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald N. Kahn, 1995 </br>
 In this book, Grinold and Kahn show how economics, econometrics, and operations research can be used to solve practical investment problems and identify profit opportunities.
 
-- [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection) - Harry M. Markowitz, 1968 </br>
+- [Portfolio Selection: Efficient Diversification of Investments](https://www.goodreads.com/book/show/2825008-portfolio-selection) - Harry M. Markowitz, 1959 </br>
 A comprehensive explanation of analysis and calculation methods to help investors find the best combinations of securities to match their requirements.
 
 - [Quantitative Equity Portfolio Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management) - Ludwig B. Chincarini, Daehwan Kim, 2006 </br>
 The authors address the construction and management of a portfolio using quantitative methods. Among other things, they offer explanations of factor models and the prediction of premiums and exposures.
 
 ### General Stock Trading
-- [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, 1992 </br>
+- [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, John Rothchild, 1993 </br>
 In the book, Lynch, a successful fund manager from 1977 to 1990, gives readers insight into his investment methods and tactics.
 
 - [Charlie Munger: The Complete Investor](https://www.goodreads.com/book/show/34889127-charlie-munger) - Tren Griffin, 2015 </br>
-Tren Griffin uses interviews, writings, and letters to explain the investment philosophy and thought processes of Charlie Munger, vice chairman of Berkshire Hathaway and longtime business partner of Warren Buffett.
+Tren Griffin uses interviews, writings, and letters to explain the investment philosophy and thought processes of Charlie Munger, the late vice chairman of Berkshire Hathaway and longtime business partner of Warren Buffett.
 
 - [Market Wizards: Interviews with Top Traders](https://www.goodreads.com/book/show/966769.Market_Wizards) - Jack D. Schwager, 1989 </br>
-By interviewing successful investors such as Bruce Kovner, Richard Dennis, Paul Tudor Jones, Michel Steinhardt, Ed Seykota, Marty Schwartz, Tom Baldwin, and others, Schwager explores what separates the world's best traders from the vast majority of unsuccessful investors.
+By interviewing successful investors such as Bruce Kovner, Richard Dennis, Paul Tudor Jones, Michael Steinhardt, Ed Seykota, Marty Schwartz, Tom Baldwin, and others, Schwager explores what separates the world's best traders from the vast majority of unsuccessful investors.
 
-- [One Up On Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street) - Peter Lynch, 1989 </br>
-Peter Lynch, who managed Fidelity Investment's successful Magellan Fund from 1977 to 1990, gives investors an insight into his investment methods. Using simple examples and some practices, he explains his process of stock selection.
+- [One Up On Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street) - Peter Lynch, John Rothchild, 1989 </br>
+Peter Lynch, who managed Fidelity Investments' successful Magellan Fund from 1977 to 1990, gives investors an insight into his investment methods. Using simple examples and some practices, he explains his process of stock selection.
 
 - [Stocks for the Long Run](https://www.goodreads.com/book/show/965633.Stocks_for_the_Long_Run_) - Jeremy Siegel, 1994 </br>
 The book by Siegel, a finance professor, addresses how to build a balanced portfolio and explains how investors can avoid typical mistakes.
 
-- [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb, 1911 </br>
-Now more than 100 years old, Gerald M. Loeb's work is considered a classic of financial literature. In his explanations, Loeb straightforwardly explains how investors should behave in rising and falling markets.
+- [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb, 1935 </br>
+Now more than 90 years old, Gerald M. Loeb's work is considered a classic of financial literature. In his explanations, Loeb straightforwardly explains how investors should behave in rising and falling markets.
 
-- [The Complete Turtle Trader](https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader) - Michael W. Covel, 2007 </br>
-The author tells the story of Richard Dennis, an extraordinarily successful stock market trader of the 1980s, and how he turned a group of beginners, under his guidance, into extraordinarily successful traders.
+- [The Complete TurtleTrader](https://www.goodreads.com/book/show/33026972-the-complete-turtle-trader) - Michael W. Covel, 2007 </br>
+The author tells the story of Richard Dennis, a highly successful commodities trader of the 1980s, and how he turned a group of beginners, under his guidance, into extraordinarily successful traders.
 
-- [The Craft of Investing](https://www.goodreads.com/book/show/128947547-the-craft-of-investing-by-john-train) - John Train, 1994 </br>
+- [The Craft of Investing](https://www.goodreads.com/book/show/1966669) - John Train, 1994 </br>
 In the book, Train outlines his key strategies and principles that have brought him success, addressing everything from the psychology of the market to practical portfolio management tips.
 
 - [The Little Book of Trading](https://www.goodreads.com/book/show/16235023-the-little-book-of-trading) - Michael W. Covel, 2011 </br>
 Michael W. Covel's book offers insights into the rules and philosophies used by successful traders. Drawing on the author's own trading experience and the wisdom of other traders, the book offers advice in a direct and easy-to-understand manner.
 
-- [The Little Book that Still Beats the Market](https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market) - Joel Greenblatt, 2007 </br>
-Joel Greenblatt explains how investors can outperform the popular market averages by systematically applying a formula. The book is kept simple and is aimed at beginners. 
+- [The Little Book that Still Beats the Market](https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market) - Joel Greenblatt, 2010 </br>
+Joel Greenblatt explains how investors can outperform the popular market averages by systematically applying a formula. The book is kept simple and is aimed at beginners.
 
-- [The New Market Wizards](https://www.goodreads.com/book/show/27224350-new-market-wizards) - Jack D. Schwager, 1992 </br>
-Jack Schwager interviews some of the most successful stock traders in the United States. Through these interviews, Schwager offers insight into the strategies, perspectives, and psychological insights of successful traders.
+- [The New Market Wizards](https://www.goodreads.com/book/show/787719) - Jack D. Schwager, 1992 </br>
+Jack Schwager interviews some of the most successful traders in the United States. Through these interviews, Schwager offers insight into the strategies, perspectives, and psychological insights of successful traders.
 
-- [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion) - Mark Minervini, 2017 </br>
-In this book, Mark Minervini explains readers how to apply his methods step by step to enhance their trading performance and create the confidence they need to outperform.
+- [Trade Like a Stock Market Wizard](https://www.goodreads.com/book/show/16189528) - Mark Minervini, 2013 </br>
+Minervini presents his SEPA (Specific Entry Point Analysis) method for finding growth stocks before large price moves. The book covers stock selection, timing entries with chart patterns, and strict risk management to protect capital.
 
 ### Trend Following
+- [Following the Trend](https://www.goodreads.com/book/show/15845804) - Andreas F. Clenow, 2012 </br>
+Clenow, a hedge fund manager, explains diversified trend following across futures markets in enough detail for readers to build their own strategy. He argues that position sizing and risk management matter more than entry and exit rules, and shows how such a strategy performed year by year.
+
 - [Investing with Volume Analysis](https://www.goodreads.com/book/show/12664470-investing-with-volume-analysis) - Buff Dormeier, 2011 </br>
-  Dormeier offers insights into using volume metrics to enhance stock trading strategies, providing a framework for interpreting price-volume relationships to predict market trends.
-
-- [Learn to Trade Momentum Stocks](https://www.goodreads.com/book/show/25740068-learn-to-trade-momentum-stocks) - Matthew R. Kratter, 2015 </br>
-This beginner-friendly book presents a trading strategy by Matthew R. Kratter. It is designed to give readers the knowledge and skills to make profitable trades in momentum stocks.
-
-- [Stocks on the Move](https://www.goodreads.com/book/show/25819574-stocks-on-the-move) - Andreas Clenow, 2015 </br>
-In this book, Clenow, a hedge fund manager, explores why most mutual funds consistently underperform and shows how anyone can outperform them. He emphasizes the power of momentum investing as one of the few consistent ways to beat the markets.
-
-- [Trading the Trends](https://www.goodreads.com/book/show/20428445-trading-the-trends) - L. A. Little, 2011 </br>
-The book covers various aspects, including identifying trends, using technical indicators, and managing risk. The content is written in an easy-to-understand style, providing readers with valuable insights into understanding and profiting from the stock market.
+Dormeier offers insights into using volume metrics to enhance stock trading strategies, providing a framework for interpreting price-volume relationships to predict market trends.
 
 - [Trend Following](https://www.goodreads.com/book/show/34855405-trend-following) - Michael W. Covel, 2004 </br>
 Michael W. Covel's book explains trend following without explicitly addressing specific strategies and provides insights on how to use trend following in market situations, whether bull or bear markets.
 
 - [Trend Qualification and Trading](https://www.goodreads.com/book/show/18969247-trend-qualification-and-trading) - L. A. Little, 2011 </br>
-Through a proven technical approach, the book explains how to gauge the likelihood of trend continuation and its potential for better trading results. Readers will gain understanding on timing entries, taking profits, and effectively exiting trades based on these trends.
+Through a proven technical approach, the book explains how to gauge the likelihood of trend continuation and its potential for better trading results. Readers will gain an understanding of timing entries, taking profits, and effectively exiting trades based on these trends.
 
 - [Trend Trading Set-Ups](https://www.goodreads.com/book/show/19569996-trend-trading-set-ups) - L. A. Little, 2012 </br>
 Building on the neoclassical concept, Little presents traders and investors with a robust methodology to discover promising trade setups and achieve precise timing for trade entry.
 
 ### Price Action Trading
-- [Price Action Breakdown](https://www.goodreads.com/book/show/29460388-price-action-breakdown) - Laurentiu Damir, 2016 </br>
-This book provides a comprehensive guide to trading pure price action analysis. It covers concepts, ideas and trading methods based on pure price action and can be applied to various financial markets.
-
-- [Price Action Trading Secrets](https://www.goodreads.com/book/show/55854507-price-action-trading-secrets) - Rayner Teo, 2020 </br>
-Rayner Teo's book is intended as a guide to the use of price action trading. The book covers trading strategies, instruments and techniques and is written in a simple, step-by-step manner.
-
-- [Pring on Price Patterns](https://www.goodreads.com/book/show/19138622-pring-on-price-patterns) - Martin J. Pring, 2009 </br>
+- [Pring on Price Patterns](https://www.goodreads.com/book/show/19138622-pring-on-price-patterns) - Martin J. Pring, 2004 </br>
 Martin J. Pring's book provides a comprehensive examination of the most commonly used price patterns and offers insights into their effectiveness and logic. The book covers a range of patterns, including one- and two-bar patterns, outside bars, reversals, pennants, and more.
 
-- [Stock Trading & Investing Using Volume Price Analysis](https://www.goodreads.com/book/show/38296614-stock-trading-investing-using-volume-price-analysis) - Anna Coulling, 2015 </br>
-Anna Coulling provides an in-depth examination of volume price analysis in stock trading. In doing so, she examines the approaches of other successful price analysis practitioners and explains them with examples.
-
 - [Trading Price Action Trends](https://www.goodreads.com/book/show/19169498-trading-price-action-trends) - Al Brooks, 2011 </br>
-Al Brooks' book is intended as a practical guide to profiting from institutional trading trends.  The book breaks down Brooks' trading system into its essential components such as institutional piggybacking or trend trading.
+Al Brooks' book is intended as a practical guide to profiting from institutional trading trends. The book breaks down Brooks' trading system into its essential components such as institutional piggybacking or trend trading.
 
 ### Behavioral Finance and Psychological Aspect of Investing
 - [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller, 2000 </br>
 Robert J. Shiller's book addresses the psychological and behavioral factors that influence financial markets. It explores the concept of speculative bubbles and irrational exuberance, in which exuberant investor behavior leads to overvaluation of assets.
 
-- [The Little Book of Behavioral Investing: How not to be your own worst enemy](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing) - James Montier, 2010 </br>
+- [The Little Book of Behavioral Investing: How Not to Be Your Own Worst Enemy](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing) - James Montier, 2010 </br>
 Author James Montier looks at the psychological aspects of investing and examines common behavioral biases that can hinder investors' success in the marketplace.
 
 - [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki, 2004 </br>
 James Surowiecki's book addresses the concept that large groups of people collectively have higher intelligence than individual experts. Surowiecki supports his argument with various case studies and anecdotes from different fields.
-
 
 ### Risk and Uncertainty
 - [Against the Gods](https://www.goodreads.com/book/show/128429.Against_the_Gods) - Peter L. Bernstein, 1996 </br>
 Bernstein takes the reader on a journey through time, showing how societies throughout history have dealt with uncertainty and developed methods for measuring and managing risk. The author shows the profound impact of risk and probability on human decision making and the development of modern finance.
 
 - [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness) - Nassim Nicholas Taleb, 2001 </br>
-Part of Taleb's multi-volume philosophical essay on uncertainty, this book examines various misconceptions of chance, including survival bias and skewed distributions, and illuminates how people tend to seek explanations even when there are none.
+Part of Taleb's multi-volume philosophical essay on uncertainty, this book examines various misconceptions of chance, including survivorship bias and skewed distributions, and illuminates how people tend to seek explanations even when there are none.
 
 - [The 5 Mistakes Every Investor Makes and How to Avoid Them](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them) - Peter Mallouk, 2014 </br>
 Mallouk's work discusses the most common mistakes investors make and how to avoid them. Among the most important lessons are the pitfalls of market timing and active trading, which are suboptimal compared to passive strategies.
