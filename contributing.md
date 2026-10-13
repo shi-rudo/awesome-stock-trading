@@ -30,7 +30,7 @@ Before contributing, please ensure you follow these guidelines:
 5. **Hard Gates:** Contributions are automatically rejected if:
    - A book is self-published (only recognized publishers accepted).
    - A website / tool / API does not clearly identify the legal entity behind it — a "© XYZ" footer or an anonymous contact form is not enough.
-   - A website / tool / API is less than 3 years old and the submission does not explain why it still qualifies.
+   - A website / tool / API is less than 3 years old and the submission does not explain why it still qualifies. Age means a public track record of the product and of its named operator, not the registration date of the domain: a product that only recently left early access, or an operating company incorporated shortly before the submission, does not meet the threshold.
 
 ## How to Contribute
 
