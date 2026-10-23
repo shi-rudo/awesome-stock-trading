@@ -89,6 +89,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Wealthica](https://www.wealthica.com) - Aggregates bank, brokerage, and crypto accounts for portfolio, net-worth, and budget tracking (Canada and US).
 
 ## Strategy Backtesting
+- [LumiBot](https://github.com/Lumiwealth/lumibot) - Open-source Python framework from Lumiwealth for backtesting stock, options and futures strategies and running the same code live through brokers such as Alpaca, Interactive Brokers, Tradier and Schwab.
 - [QuantConnect](https://www.quantconnect.com) - Algorithmic trading platform that provides backtesting, live trading, and research tools for stocks, forex, and cryptocurrencies.
 - [TrendSpider](https://trendspider.com) - Charting and strategy-testing platform offering no-code backtesting of technical trading strategies on stocks and other markets.
 - [Wealth-Lab](https://www.wealth-lab.com) - Strategy development and portfolio backtesting platform for stocks and futures, supporting no-code building blocks and C# strategies.
