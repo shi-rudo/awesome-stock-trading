@@ -111,6 +111,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
 - [FRED API](https://fred.stlouisfed.org/docs/api/fred/) - Free API from the Federal Reserve Bank of St. Louis for more than 800,000 US and international economic time series such as interest rates, inflation, and employment.
 - [Interactive Brokers API](https://www.interactivebrokers.com/en/trading/ib-api.php) - Trading and market data APIs (TWS API, Web API, FIX) for programmatic order execution and real-time and historical data across global stocks, options, futures, and forex.
+- [Lava](https://github.com/dustinliang666-blip/lava-mcp) - Read-only A-share stock and concept-board news-flow heat via remote MCP, REST, and Skill.
 - [LSEG Data Library](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python) - Python library for LSEG Workspace and Data Platform data, successor to the Eikon Data API.
 - [Marketstack](https://marketstack.com) - Stock market data API by APILayer with end-of-day, intraday, and real-time prices, indices, and exchange data.
 - [Massive](https://massive.com/) - Tick-level US equities, options, indices, forex, and crypto data via REST, WebSockets, and flat files (formerly Polygon.io, rebranded 2025).
