@@ -57,6 +57,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Stockopedia](https://www.stockopedia.com) - Stock screener and research platform for UK, European, and international markets that scores every stock from 0 to 100 on quality, value, and momentum (StockRanks).
 - [TipRanks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [WallStreetZen Stock Screener](https://www.wallstreetzen.com/stock-screener) - Free US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
+- [Wave Radar](https://waveradar.us) - Screener for 7,000+ US and Asian stocks that scans for 75 technical signals with each signal's historical win rate per stock, plus gamma exposure, fair-value bands and AI analysis of macro and breaking news; free account available.
 - [Zacks Stock Screener](https://www.zacks.com/screening/stock-screener) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 
 ## Charting
