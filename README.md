@@ -60,6 +60,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Zacks Stock Screener](https://www.zacks.com/screening/stock-screener) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 
 ## Charting
+- [Charts](https://chartsgg.com) - Web charting platform for stocks, forex, crypto and commodities that runs Pine Script and MQL4/MQL5 indicators in the browser and sends price and indicator alerts to Telegram.
 - [StockCharts](https://stockcharts.com) - Technical analysis and charting website that provides advanced charting tools, custom indicators, and market analysis for stocks, funds, and indices.
 - [TradingView](https://www.tradingview.com) - Platform that offers charting tools, trading ideas, and real-time market data for stocks, forex, cryptocurrencies, and other financial instruments.
 
