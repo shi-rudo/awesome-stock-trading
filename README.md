@@ -50,6 +50,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Trading Terminal](https://www.tradingterminal.com) - Market dashboard for US stocks with key metrics, news, an economic calendar, a heatmap, insider trades, and scanners.
 
 ## Stock Screener
+- [AlphaSift](https://github.com/ZhuLinsen/alphasift) - Open-source multi-market quantitative stock screener across 7 global equity markets with transparent YAML strategies, Walk-Forward pattern replay, and a live public T+N benchmark dashboard.
 - [CNBC Stock Screener](https://www.cnbc.com/pro-stock-screener/) - US stock screener, part of the CNBC PRO subscription.
 - [Finviz](https://finviz.com) - Free stock screener with financial visualizations.
 - [MarketBeat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
